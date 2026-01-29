@@ -111,6 +111,28 @@ export default function Home() {
 
         </div>
 
+        {/* AI Recommendations CTA */}
+        <Link href="/ai-recommendations">
+          <div className="bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 rounded-2xl shadow-2xl p-12 mb-16 text-center text-white hover:scale-[1.02] transition-transform cursor-pointer">
+            <div className="text-6xl mb-6 animate-pulse">🤖</div>
+            <div className="inline-block bg-white/20 px-4 py-2 rounded-full text-sm font-semibold mb-4">
+              ✨ NEW AI-POWERED TOOL
+            </div>
+            <h3 className="text-3xl md:text-4xl font-bold mb-4">
+              Get Personalized Therapy Recommendations
+            </h3>
+            <p className="text-xl text-purple-100 mb-8 max-w-3xl mx-auto">
+              Tell us about your child's symptoms and our AI will analyze research to suggest evidence-based therapy combinations - from ABA + speech therapy to dietary interventions and supplements.
+            </p>
+            <div className="inline-block bg-white text-purple-600 font-bold px-10 py-4 rounded-xl hover:bg-purple-50 transition-colors shadow-xl text-lg">
+              Try AI Recommendations →
+            </div>
+            <p className="text-purple-200 mt-4 text-sm">
+              Free • Research-backed • Takes 2 minutes • Not medical advice - always consult your doctor
+            </p>
+          </div>
+        </Link>
+
         {/* Provider CTA */}
         <div className="bg-gradient-to-r from-purple-600 to-indigo-600 rounded-2xl shadow-2xl p-12 mb-16 text-center text-white">
           <div className="text-6xl mb-6">🏥</div>
