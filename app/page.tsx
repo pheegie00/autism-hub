@@ -160,6 +160,7 @@ export default function Home() {
               </div>
               <p className="text-yellow-800 text-sm mb-3">Emerging evidence, discuss with specialists</p>
               <ul className="text-sm text-yellow-700 space-y-1">
+                <li>• Hyperbaric oxygen (HBOT)</li>
                 <li>• Social skills groups</li>
                 <li>• Sensory integration</li>
                 <li>• Music therapy</li>
@@ -177,7 +178,7 @@ export default function Home() {
                 <li>• MMS/Chlorine dioxide</li>
                 <li>• Chelation therapy</li>
                 <li>• Lupron protocol</li>
-                <li>• Hyperbaric oxygen (for autism)</li>
+                <li>• Fake/fraudulent "cures"</li>
               </ul>
             </div>
           </div>
