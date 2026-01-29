@@ -22,7 +22,7 @@ export async function searchPubMed(query: string, maxResults: number = 20): Prom
     
     // If query is generic or empty, use diverse autism research terms
     if (!query || query.length < 3 || query === 'treatment' || query === 'autism') {
-      searchTerm = '(autism OR ASD OR "autism spectrum disorder") AND (treatment OR therapy OR intervention OR microbiome OR "gut bacteria" OR HBOT OR "hyperbaric oxygen" OR leucovorin OR folinic OR "stem cell" OR "neural stem cell" OR oxytocin OR bumetanide OR cannabidiol OR CBD OR diet OR probiotic OR methylation OR epigenetic)';
+      searchTerm = '(autism OR ASD OR "autism spectrum disorder") AND (treatment OR therapy OR intervention OR microbiome OR "gut bacteria" OR HBOT OR "hyperbaric oxygen" OR leucovorin OR folinic OR "stem cell" OR "neural stem cell" OR oxytocin OR bumetanide OR cannabidiol OR CBD OR diet OR probiotic OR methylation OR epigenetic OR "African American" OR "Black children" OR "racial disparities" OR "health disparities" OR MMR OR vaccine OR vaccination OR immunization OR "vaccine safety")';
     } else {
       // User provided specific query - still include autism context
       searchTerm = `(autism OR ASD OR "autism spectrum disorder") AND (${query})`;

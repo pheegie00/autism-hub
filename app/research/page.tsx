@@ -39,7 +39,8 @@ export default function ResearchPage() {
 
   const quickSearches = [
     'microbiome', 'HBOT', 'leucovorin', 'stem cell', 
-    'oxytocin', 'bumetanide', 'CBD', 'diet', 'probiotic'
+    'oxytocin', 'bumetanide', 'CBD', 'MMR vaccine',
+    'African American boys', 'racial disparities', 'vaccine safety'
   ];
 
   return (
@@ -67,7 +68,7 @@ export default function ResearchPage() {
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search treatments: microbiome, HBOT, leucovorin, stem cell..."
+              placeholder="Search: microbiome, HBOT, MMR vaccine, African American boys, stem cell..."
               className="flex-1 px-6 py-4 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500 text-gray-900 placeholder-gray-400 text-lg"
             />
             <button
