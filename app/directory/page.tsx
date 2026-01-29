@@ -41,17 +41,17 @@ export default function DirectoryPage() {
   }
 
   return (
-    <main className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
+    <main className="min-h-screen bg-gradient-to-br from-green-50 via-blue-50 to-indigo-50">
       {/* Header */}
-      <header className="bg-white shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="text-blue-600 hover:text-blue-800 text-sm mb-2 inline-block">
+      <header className="bg-gradient-to-r from-green-600 to-blue-600 text-white shadow-lg">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <Link href="/" className="text-white hover:text-green-100 text-sm mb-2 inline-block">
             ← Back to Home
           </Link>
-          <h1 className="text-3xl font-bold text-blue-900">
+          <h1 className="text-4xl font-bold">
             🏥 Maryland Provider Directory
           </h1>
-          <p className="mt-2 text-gray-600">
+          <p className="mt-2 text-green-100 text-lg">
             Find evidence-based autism service providers in Maryland
           </p>
         </div>
@@ -59,29 +59,29 @@ export default function DirectoryPage() {
 
       {/* Search */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <form onSubmit={handleSearch} className="bg-white rounded-lg shadow-md p-6">
+        <form onSubmit={handleSearch} className="bg-white rounded-xl shadow-lg p-8">
           <div className="grid md:grid-cols-3 gap-4">
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-semibold text-gray-800 mb-2">
                 City
               </label>
               <input
                 type="text"
                 value={city}
                 onChange={(e) => setCity(e.target.value)}
-                placeholder="Baltimore, Annapolis..."
-                className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+                placeholder="Columbia, Baltimore..."
+                className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white text-gray-900 placeholder-gray-400"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-semibold text-gray-800 mb-2">
                 Evidence Level
               </label>
               <select
                 value={evidenceLevel}
                 onChange={(e) => setEvidenceLevel(e.target.value)}
-                className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+                className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white text-gray-900"
               >
                 <option value="">All Levels</option>
                 <option value="table1">Table 1: Evidence-Based</option>
@@ -94,7 +94,7 @@ export default function DirectoryPage() {
               <button
                 type="submit"
                 disabled={loading}
-                className="w-full bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-700 transition-colors disabled:bg-gray-400"
+                className="w-full bg-gradient-to-r from-green-600 to-blue-600 text-white font-semibold px-6 py-3 rounded-lg hover:from-green-700 hover:to-blue-700 transition-all disabled:bg-gray-400 shadow-md"
               >
                 {loading ? 'Searching...' : 'Search'}
               </button>
