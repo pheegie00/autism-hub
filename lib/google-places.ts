@@ -58,7 +58,17 @@ const SERVICE_KEYWORDS = [
   'hyperbaric chamber Maryland',
   'hyperbaric medicine Maryland',
   'restorative hyperbaric',
+  
+  // Table 2: Stem Cell Therapy
+  'stem cell therapy Maryland',
+  'stem cell autism Maryland',
+  'regenerative medicine autism Maryland',
+  'cord blood therapy autism',
+  'mesenchymal stem cell Maryland',
+  
+  // Integrative/Functional Medicine
   'integrative medicine autism',
+  'functional medicine autism Maryland',
   
   // General autism services
   'autism center Maryland',

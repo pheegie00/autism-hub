@@ -226,6 +226,53 @@ const SAMPLE_PROVIDERS = [
     provider_services: [
       { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
     ]
+  },
+  {
+    id: 19,
+    practice_name: "Maryland Stem Cell Center",
+    city: "Baltimore",
+    state: "MD",
+    phone: "(410) 878-4545",
+    website: "https://www.marylandstemcellcenter.com",
+    description: "Regenerative medicine and stem cell therapy for autism and neurological conditions",
+    provider_services: [
+      { intervention_categories: { name: "Stem Cell Therapy", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 20,
+    practice_name: "Chesapeake Biologics",
+    city: "Annapolis",
+    state: "MD",
+    phone: "(410) 224-4100",
+    website: "https://www.chesapeakebiologics.com",
+    description: "Regenerative medicine clinic offering stem cell and cord blood therapies",
+    provider_services: [
+      { intervention_categories: { name: "Stem Cell Therapy", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 21,
+    practice_name: "Regenerative Orthopedics & Wellness",
+    city: "Rockville",
+    state: "MD",
+    phone: "(301) 658-8989",
+    description: "Integrative medicine with mesenchymal stem cell therapy protocols",
+    provider_services: [
+      { intervention_categories: { name: "Stem Cell Therapy", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 22,
+    practice_name: "Johns Hopkins Regenerative Medicine",
+    city: "Baltimore",
+    state: "MD",
+    phone: "(410) 955-5000",
+    website: "https://www.hopkinsmedicine.org",
+    description: "Academic medical center conducting stem cell research and clinical trials for autism",
+    provider_services: [
+      { intervention_categories: { name: "Stem Cell Therapy", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
   }
 ];
 
