@@ -41,7 +41,9 @@ const SERVICE_KEYWORDS = [
   'occupational therapy autism',
   'autism behavioral health',
   'developmental pediatrics',
-  'autism evaluation'
+  'autism evaluation',
+  'hyperbaric oxygen therapy',
+  'HBOT therapy'
 ];
 
 export async function searchAutismProviders(

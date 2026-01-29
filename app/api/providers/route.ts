@@ -156,6 +156,42 @@ const SAMPLE_PROVIDERS = [
       { intervention_categories: { name: "Occupational Therapy (OT)", evidence_level: "table1", evidence_label: "Evidence-Based" }},
       { intervention_categories: { name: "Physical Therapy (PT)", evidence_level: "table1", evidence_label: "Evidence-Based" }}
     ]
+  },
+  {
+    id: 13,
+    practice_name: "Hyperbaric Oxygen Therapy of Maryland",
+    city: "Baltimore",
+    state: "MD",
+    phone: "(410) 555-HBOT",
+    website: "https://www.hbotmd.com",
+    description: "Hyperbaric oxygen therapy for autism and other conditions",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 14,
+    practice_name: "Columbia Hyperbaric Center",
+    city: "Columbia",
+    state: "MD",
+    phone: "(410) 555-0123",
+    website: "https://www.columbiahyperbaric.com",
+    description: "Hyperbaric oxygen therapy services including autism treatment protocols",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 15,
+    practice_name: "Rockville Wellness & Hyperbaric",
+    city: "Rockville",
+    state: "MD",
+    phone: "(301) 555-9876",
+    website: "https://www.rockvillehbot.com",
+    description: "Integrative medicine with hyperbaric oxygen therapy",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
   }
 ];
 
