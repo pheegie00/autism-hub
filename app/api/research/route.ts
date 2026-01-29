@@ -6,7 +6,7 @@ export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
     const query = searchParams.get('q') || '';
-    const maxResults = parseInt(searchParams.get('limit') || '20');
+    const maxResults = parseInt(searchParams.get('limit') || '50');
 
     // Check if we have cached results
     const { data: cachedResults } = await supabase

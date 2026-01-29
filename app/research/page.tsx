@@ -23,18 +23,30 @@ export default function ResearchPage() {
     e.preventDefault();
     if (!query.trim()) return;
 
+    await performSearch(query);
+  }
+
+  async function performSearch(searchQuery: string) {
+    if (!searchQuery.trim()) return;
+
     setLoading(true);
     setSearched(true);
 
     try {
-      const response = await fetch(`/api/research?q=${encodeURIComponent(query)}`);
+      const response = await fetch(`/api/research?q=${encodeURIComponent(searchQuery)}`);
       const data = await response.json();
       setPapers(data.papers || []);
     } catch (error) {
       console.error('Failed to search research:', error);
+      setPapers([]);
     } finally {
       setLoading(false);
     }
+  }
+
+  function handleQuickSearch(term: string) {
+    setQuery(term);
+    performSearch(term);
   }
 
   const quickSearches = [
@@ -88,10 +100,7 @@ export default function ResearchPage() {
                 <button
                   key={term}
                   type="button"
-                  onClick={() => {
-                    setQuery(term);
-                    handleSearch({ preventDefault: () => {} } as any);
-                  }}
+                  onClick={() => handleQuickSearch(term)}
                   className="px-4 py-2 bg-purple-100 text-purple-800 rounded-full text-sm font-medium hover:bg-purple-200 transition-colors"
                 >
                   {term}
@@ -101,7 +110,7 @@ export default function ResearchPage() {
           </div>
 
           <p className="text-sm text-gray-500 mt-4">
-            🌍 Searching international PubMed database • 2020-2026 research
+            🌍 Searching international PubMed database • All languages • Up to 50 papers per search
           </p>
         </form>
 
