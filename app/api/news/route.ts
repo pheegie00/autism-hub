@@ -2,6 +2,18 @@ import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
 import { scrapeAutismNews, extractNewsArticles } from '@/lib/firecrawl';
 
+// Featured news stories
+const FEATURED_NEWS = [
+  {
+    title: "HHS Secretary Kennedy Launches Autism Research Coalition with Autistic Adults",
+    url: "https://www.hhs.gov",
+    source: "HHS / Federal News",
+    summary: "Robert F. Kennedy Jr. is assembling an autism research coalition that includes two autistic adults as key members, marking a shift toward including autistic voices in federal policy.",
+    published_date: new Date('2026-01-29').toISOString(),
+    featured: true
+  }
+];
+
 export async function GET() {
   try {
     // Try to get cached news from Supabase first
@@ -22,7 +34,7 @@ export async function GET() {
       
       if (new Date(latestArticle.fetched_at) > sixHoursAgo) {
         return NextResponse.json({ 
-          articles: cachedNews,
+          articles: [...FEATURED_NEWS, ...cachedNews],
           cached: true 
         });
       }
@@ -58,7 +70,7 @@ export async function GET() {
     }
 
     return NextResponse.json({ 
-      articles: allArticles,
+      articles: [...FEATURED_NEWS, ...allArticles],
       cached: false 
     });
   } catch (error) {
