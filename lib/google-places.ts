@@ -76,7 +76,6 @@ export async function searchAutismProviders(
             params: {
               query: `${keyword} ${location}`,
               key: apiKey,
-              type: 'health',
             },
           });
 
