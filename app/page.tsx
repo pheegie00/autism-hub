@@ -8,7 +8,7 @@ export default function Home() {
             Maryland Autism Hub
           </h1>
           <p className="mt-2 text-gray-600">
-            Your comprehensive resource for autism services, research, and news
+            Evidence-based autism services, research, and news for Maryland families
           </p>
         </div>
       </header>
@@ -24,12 +24,12 @@ export default function Home() {
               <h2 className="text-xl font-semibold text-gray-900">Latest News</h2>
             </div>
             <p className="text-gray-600 mb-4">
-              Stay updated with the latest autism research and discoveries
+              Real-time autism research and discoveries
             </p>
             <div className="space-y-3">
               <div className="border-l-4 border-blue-500 pl-3">
                 <p className="text-sm font-medium text-gray-900">Coming soon...</p>
-                <p className="text-xs text-gray-500">Daily autism news aggregation</p>
+                <p className="text-xs text-gray-500">Firecrawl-powered daily aggregation from The Transmitter, Autism Speaks, NIH</p>
               </div>
             </div>
           </section>
@@ -41,16 +41,20 @@ export default function Home() {
               <h2 className="text-xl font-semibold text-gray-900">Provider Directory</h2>
             </div>
             <p className="text-gray-600 mb-4">
-              Find evidence-based autism service providers in Maryland
+              Evidence-based autism services in Maryland
             </p>
             <div className="space-y-2">
-              <div className="bg-gray-50 rounded p-3">
-                <p className="text-sm font-medium text-gray-900">Search by:</p>
-                <ul className="text-xs text-gray-600 mt-1 space-y-1">
-                  <li>• Service Type (ABA, Speech, OT, PT)</li>
-                  <li>• Location</li>
-                  <li>• Evidence Level</li>
-                </ul>
+              <div className="bg-green-50 border border-green-200 rounded p-3">
+                <p className="text-sm font-semibold text-green-900">✅ Table 1: Evidence-Based</p>
+                <p className="text-xs text-green-700">ABA, Speech, OT, PT</p>
+              </div>
+              <div className="bg-yellow-50 border border-yellow-200 rounded p-3">
+                <p className="text-sm font-semibold text-yellow-900">🔬 Table 2: Investigational</p>
+                <p className="text-xs text-yellow-700">Emerging treatments</p>
+              </div>
+              <div className="bg-red-50 border border-red-200 rounded p-3">
+                <p className="text-sm font-semibold text-red-900">☠️ Table 4: DANGER</p>
+                <p className="text-xs text-red-700">Avoid fraudulent treatments</p>
               </div>
             </div>
           </section>
@@ -62,12 +66,12 @@ export default function Home() {
               <h2 className="text-xl font-semibold text-gray-900">Research Search</h2>
             </div>
             <p className="text-gray-600 mb-4">
-              Medical research translated into plain English
+              Medical research in plain English
             </p>
             <div className="bg-gray-50 rounded p-3">
               <p className="text-sm font-medium text-gray-900">Features:</p>
               <ul className="text-xs text-gray-600 mt-1 space-y-1">
-                <li>• Search PubMed database</li>
+                <li>• PubMed database access</li>
                 <li>• AI plain-English translations</li>
                 <li>• Filter by year & relevance</li>
               </ul>
@@ -76,16 +80,42 @@ export default function Home() {
 
         </div>
 
+        {/* Google Form CTA */}
+        <div className="mt-12 bg-gradient-to-r from-purple-50 to-blue-50 border-2 border-purple-200 rounded-lg p-8">
+          <div className="text-center">
+            <span className="text-4xl mb-4 block">🏥</span>
+            <h3 className="text-2xl font-bold text-gray-900 mb-3">
+              Are you an autism service provider in Maryland?
+            </h3>
+            <p className="text-gray-700 mb-6 max-w-2xl mx-auto">
+              Join our evidence-based directory and connect with families seeking quality autism services.
+              All submissions are reviewed for evidence level and safety.
+            </p>
+            <a
+              href="#"
+              className="inline-block bg-purple-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-purple-700 transition-colors shadow-md"
+            >
+              Submit Your Practice →
+            </a>
+            <p className="text-sm text-gray-500 mt-3">
+              Takes 3 minutes • Google Form • Free listing
+            </p>
+          </div>
+        </div>
+
         {/* Status Banner */}
-        <div className="mt-12 bg-blue-50 border border-blue-200 rounded-lg p-6">
+        <div className="mt-8 bg-blue-50 border border-blue-200 rounded-lg p-6">
           <div className="flex items-start">
             <span className="text-2xl mr-3">🚧</span>
             <div>
-              <h3 className="font-semibold text-blue-900 mb-2">Iteration 1 - In Progress</h3>
-              <p className="text-sm text-blue-800">
-                This site is actively being built. Features will be added iteratively.
-                Current status: Foundation complete, connecting Supabase, building features.
-              </p>
+              <h3 className="font-semibold text-blue-900 mb-2">Iteration 1 Complete!</h3>
+              <ul className="text-sm text-blue-800 space-y-1">
+                <li>✅ Next.js foundation with Tailwind CSS</li>
+                <li>✅ Supabase database connected</li>
+                <li>✅ Intervention guide parsed (4 evidence tables)</li>
+                <li>✅ Database schema created (providers, services, news, research)</li>
+                <li>🔄 Next: Populate database & build search functionality</li>
+              </ul>
             </div>
           </div>
         </div>
