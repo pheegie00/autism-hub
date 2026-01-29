@@ -71,6 +71,17 @@ CREATE TABLE research_papers (
   created_at TIMESTAMP DEFAULT NOW()
 );
 
+-- Email Subscribers
+CREATE TABLE subscribers (
+  id SERIAL PRIMARY KEY,
+  email TEXT UNIQUE NOT NULL,
+  subscribed_at TIMESTAMP DEFAULT NOW(),
+  source TEXT DEFAULT 'modal', -- 'modal', 'footer', 'manual'
+  active BOOLEAN DEFAULT true,
+  unsubscribed_at TIMESTAMP,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+
 -- Indexes for performance
 CREATE INDEX idx_providers_city ON providers(city);
 CREATE INDEX idx_providers_verified ON providers(verified);
@@ -84,6 +95,7 @@ ALTER TABLE provider_services ENABLE ROW LEVEL SECURITY;
 ALTER TABLE intervention_categories ENABLE ROW LEVEL SECURITY;
 ALTER TABLE news_articles ENABLE ROW LEVEL SECURITY;
 ALTER TABLE research_papers ENABLE ROW LEVEL SECURITY;
+ALTER TABLE subscribers ENABLE ROW LEVEL SECURITY;
 
 -- Public read access (all tables)
 CREATE POLICY "Public read access" ON providers FOR SELECT USING (true);
@@ -91,6 +103,9 @@ CREATE POLICY "Public read access" ON provider_services FOR SELECT USING (true);
 CREATE POLICY "Public read access" ON intervention_categories FOR SELECT USING (true);
 CREATE POLICY "Public read access" ON news_articles FOR SELECT USING (true);
 CREATE POLICY "Public read access" ON research_papers FOR SELECT USING (true);
+
+-- Public insert for subscribers (email capture)
+CREATE POLICY "Public insert" ON subscribers FOR INSERT WITH CHECK (true);
 
 -- Insert intervention categories from guide (sample - full list would be populated via script)
 INSERT INTO intervention_categories (name, evidence_level, evidence_label, target_domain, risk_level) VALUES
