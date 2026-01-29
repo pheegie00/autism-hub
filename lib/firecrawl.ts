@@ -14,7 +14,7 @@ export async function scrapeAutismNews() {
   const results = await Promise.allSettled(
     sources.map(async (url) => {
       try {
-        const scrapeResult = await firecrawl.scrapeUrl(url, {
+        const scrapeResult = await firecrawl.scrape(url, {
           formats: ['markdown'],
         });
         return {
