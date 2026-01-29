@@ -50,9 +50,14 @@ const SERVICE_KEYWORDS = [
   'developmental pediatrics',
   'autism evaluation',
   
-  // Table 2: Investigational
+  // Table 2: Investigational (HBOT/Hyperbaric)
   'hyperbaric oxygen therapy Maryland',
+  'hyperbaric therapy Maryland',
+  'HBOT Maryland',
   'HBOT autism',
+  'hyperbaric chamber Maryland',
+  'hyperbaric medicine Maryland',
+  'restorative hyperbaric',
   'integrative medicine autism',
   
   // General autism services

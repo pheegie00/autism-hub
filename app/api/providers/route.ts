@@ -192,6 +192,40 @@ const SAMPLE_PROVIDERS = [
     provider_services: [
       { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
     ]
+  },
+  {
+    id: 16,
+    practice_name: "Restorative Hyperbaric Therapy of Maryland",
+    city: "Towson",
+    state: "MD",
+    phone: "(410) 825-4999",
+    website: "https://maps.app.goo.gl/ottBGLffnxEAPHEA7",
+    description: "Hyperbaric oxygen therapy center treating autism, traumatic brain injury, and other conditions",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 17,
+    practice_name: "Towson Hyperbaric Center",
+    city: "Towson",
+    state: "MD",
+    phone: "(410) 494-0620",
+    description: "Hyperbaric oxygen treatment for developmental conditions including autism",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
+  },
+  {
+    id: 18,
+    practice_name: "Maryland Hyperbaric & Wellness",
+    city: "Frederick",
+    state: "MD",
+    phone: "(301) 668-4999",
+    description: "Integrative hyperbaric oxygen therapy and wellness center",
+    provider_services: [
+      { intervention_categories: { name: "HBOT (Hyperbaric Oxygen)", evidence_level: "table2", evidence_label: "Investigational" }}
+    ]
   }
 ];
 
