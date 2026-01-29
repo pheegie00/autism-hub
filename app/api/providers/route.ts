@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
+import { searchAutismProviders, mapGoogleProviderToOurFormat } from '@/lib/google-places';
 
 // Sample providers as fallback when database is empty
 const SAMPLE_PROVIDERS = [
@@ -164,32 +165,55 @@ export async function GET(request: Request) {
     const city = searchParams.get('city');
     const service = searchParams.get('service');
     const evidenceLevel = searchParams.get('evidence_level');
+    const useGoogle = searchParams.get('google') !== 'false'; // Default to true
 
-    // Try database first
-    let query = supabase
-      .from('providers')
-      .select(`
-        *,
-        provider_services (
-          intervention_id,
-          notes,
-          intervention_categories (
-            name,
-            evidence_level,
-            evidence_label
-          )
-        )
-      `)
-      .eq('verified', true);
+    let providers: any[] = [];
 
-    if (city) {
-      query = query.ilike('city', `%${city}%`);
+    // Try Google Places API first if enabled
+    if (useGoogle && process.env.GOOGLE_MAPS_API_KEY) {
+      console.log('Searching Google Places API...');
+      const googleProviders = await searchAutismProviders(city || undefined, service || undefined);
+      
+      if (googleProviders.length > 0) {
+        providers = googleProviders.map(mapGoogleProviderToOurFormat);
+        console.log(`Found ${providers.length} providers from Google Places`);
+      }
     }
 
-    const { data, error } = await query;
+    // If Google didn't return results, try database
+    if (providers.length === 0) {
+      let query = supabase
+        .from('providers')
+        .select(`
+          *,
+          provider_services (
+            intervention_id,
+            notes,
+            intervention_categories (
+              name,
+              evidence_level,
+              evidence_label
+            )
+          )
+        `)
+        .eq('verified', true);
 
-    // If database query fails or returns no results, use sample data
-    let providers = (data && data.length > 0) ? data : SAMPLE_PROVIDERS;
+      if (city) {
+        query = query.ilike('city', `%${city}%`);
+      }
+
+      const { data, error } = await query;
+      
+      // If database has results, use them
+      if (data && data.length > 0) {
+        providers = data;
+      }
+    }
+
+    // If still no results, use sample data
+    if (providers.length === 0) {
+      providers = SAMPLE_PROVIDERS;
+    }
 
     // Filter by city if specified
     if (city) {
