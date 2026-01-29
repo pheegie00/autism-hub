@@ -65,7 +65,10 @@ export async function searchPubMed(query: string, maxResults: number = 50): Prom
       params.mindate = '2018'; // Expanded from 2020 to 2018 for more results
     }
 
-    const response = await axios.get(PUBMED_SEARCH_URL, { params });
+    const response = await axios.get(PUBMED_SEARCH_URL, { 
+      params,
+      timeout: 10000 // 10 second timeout
+    });
 
     const idList = response.data.esearchresult?.idlist || [];
     console.log(`PubMed search found ${idList.length} articles for query: ${query}`);
@@ -85,7 +88,8 @@ export async function fetchPubMedDetails(pmids: string[]): Promise<PubMedArticle
         db: 'pubmed',
         id: pmids.join(','),
         retmode: 'xml'
-      }
+      },
+      timeout: 15000 // 15 second timeout
     });
 
     const parser = new XMLParser({

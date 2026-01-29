@@ -1,6 +1,10 @@
 import { NextResponse } from 'next/server';
 import { searchPubMed, fetchPubMedDetails } from '@/lib/pubmed';
-import { supabase } from '@/lib/supabase';
+
+// Serverless runtime config
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
+export const maxDuration = 30;
 
 export async function GET(request: Request) {
   try {
@@ -8,55 +12,35 @@ export async function GET(request: Request) {
     const query = searchParams.get('q') || '';
     const maxResults = parseInt(searchParams.get('limit') || '50');
 
-    // Check if we have cached results
-    const { data: cachedResults } = await supabase
-      .from('research_papers')
-      .select('*')
-      .textSearch('title', query)
-      .limit(maxResults);
-
-    if (cachedResults && cachedResults.length >= 5) {
+    if (!query.trim()) {
       return NextResponse.json({
-        papers: cachedResults,
-        cached: true
+        error: 'Search query is required'
+      }, { status: 400 });
+    }
+
+    console.log(`[Research API] Searching PubMed for: ${query}`);
+
+    // Fetch directly from PubMed (no caching for now)
+    const pmids = await searchPubMed(query, maxResults);
+    
+    if (pmids.length === 0) {
+      return NextResponse.json({
+        papers: [],
+        message: 'No results found'
       });
     }
 
-    // Fetch from PubMed
-    const pmids = await searchPubMed(query, maxResults);
     const papers = await fetchPubMedDetails(pmids);
-
-    // Cache in Supabase
-    if (papers.length > 0) {
-      const { error } = await supabase
-        .from('research_papers')
-        .upsert(
-          papers.map(paper => ({
-            pubmed_id: paper.pubmedId,
-            title: paper.title,
-            abstract: paper.abstract,
-            authors: paper.authors,
-            journal: paper.journal,
-            publication_date: paper.publicationDate,
-            doi: paper.doi,
-            url: paper.url
-          })),
-          { onConflict: 'pubmed_id', ignoreDuplicates: true }
-        );
-
-      if (error) {
-        console.error('Cache error:', error);
-      }
-    }
+    console.log(`[Research API] Returning ${papers.length} papers`);
 
     return NextResponse.json({
       papers,
       cached: false
     });
-  } catch (error) {
-    console.error('Research API error:', error);
+  } catch (error: any) {
+    console.error('[Research API] Error:', error);
     return NextResponse.json(
-      { error: 'Failed to search research' },
+      { error: error?.message || 'Failed to search PubMed' },
       { status: 500 }
     );
   }
