@@ -35,12 +35,20 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Contact */}
+          {/* Support */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Stay Connected</h3>
+            <h3 className="text-white font-semibold mb-4">Support This Resource</h3>
             <p className="text-sm text-gray-400 mb-4">
-              Get the latest autism research and news delivered to your inbox.
+              Help us keep this resource 100% free for Maryland families.
             </p>
+            <a
+              href="https://buymeacoffee.com/arthurpheda"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-yellow-500 hover:bg-yellow-400 text-gray-900 font-semibold px-4 py-2 rounded-lg transition-colors text-sm"
+            >
+              ☕ Buy Me a Coffee
+            </a>
           </div>
         </div>
 

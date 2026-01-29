@@ -206,6 +206,28 @@ export default function Home() {
           </div>
         </div>
 
+        {/* Support This Resource */}
+        <div className="bg-gradient-to-br from-yellow-400 via-orange-400 to-pink-500 rounded-2xl shadow-2xl p-10 text-center text-white">
+          <div className="text-5xl mb-4">☕</div>
+          <h3 className="text-3xl font-bold mb-3">
+            Support This Free Resource
+          </h3>
+          <p className="text-xl text-white/90 mb-6 max-w-2xl mx-auto">
+            Maryland Autism Hub is 100% free for families. Help us keep it running and expand our resources.
+          </p>
+          <a
+            href="https://buymeacoffee.com/arthurpheda"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-white text-orange-600 font-bold px-10 py-4 rounded-xl hover:bg-orange-50 transition-colors shadow-xl text-lg"
+          >
+            Buy Me a Coffee ☕
+          </a>
+          <p className="text-white/80 mt-4 text-sm">
+            Every donation helps maintain the site and add new features ❤️
+          </p>
+        </div>
+
       </div>
     </main>
   );
