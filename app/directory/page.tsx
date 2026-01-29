@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 
 interface Provider {
@@ -14,11 +14,31 @@ interface Provider {
 
 export default function DirectoryPage() {
   const [providers, setProviders] = useState<Provider[]>([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [searched, setSearched] = useState(false);
   
   const [city, setCity] = useState('');
   const [evidenceLevel, setEvidenceLevel] = useState('');
+
+  // Auto-load all Maryland providers on page load
+  useEffect(() => {
+    loadAllProviders();
+  }, []);
+
+  async function loadAllProviders() {
+    setLoading(true);
+    try {
+      // Empty params = search all of Maryland
+      const response = await fetch(`/api/providers`);
+      const data = await response.json();
+      setProviders(data.providers || []);
+      setSearched(true);
+    } catch (error) {
+      console.error('Failed to load providers:', error);
+    } finally {
+      setLoading(false);
+    }
+  }
 
   async function handleSearch(e: React.FormEvent) {
     e.preventDefault();
@@ -69,9 +89,10 @@ export default function DirectoryPage() {
                 type="text"
                 value={city}
                 onChange={(e) => setCity(e.target.value)}
-                placeholder="Columbia, Baltimore..."
+                placeholder="Leave blank for all MD"
                 className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white text-gray-900 placeholder-gray-400"
               />
+              <p className="text-xs text-gray-500 mt-1">Leave blank to see all Maryland providers</p>
             </div>
 
             <div>
@@ -105,8 +126,14 @@ export default function DirectoryPage() {
         {/* Results */}
         <div className="mt-8">
           {loading ? (
-            <div className="text-center py-12">
-              <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
+            <div className="text-center py-12 bg-white rounded-lg shadow-md">
+              <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-green-600 mb-4"></div>
+              <p className="text-gray-700 font-semibold text-lg">
+                {city ? `Searching ${city}, MD...` : 'Searching all of Maryland...'}
+              </p>
+              <p className="text-gray-500 text-sm mt-2">
+                Finding autism therapy providers across the state
+              </p>
             </div>
           ) : searched && providers.length === 0 ? (
             <div className="text-center py-12 bg-white rounded-lg shadow-md">
@@ -118,8 +145,16 @@ export default function DirectoryPage() {
               </p>
             </div>
           ) : providers.length > 0 ? (
-            <div className="space-y-4">
-              {providers.map((provider) => (
+            <>
+              <div className="bg-white rounded-lg shadow-md p-4 mb-6">
+                <p className="text-gray-700">
+                  Found <span className="font-bold text-green-600">{providers.length}</span> autism service providers in Maryland
+                  {city && <span> in <span className="font-semibold">{city}</span></span>}
+                </p>
+              </div>
+              
+              <div className="space-y-4">
+                {providers.map((provider) => (
                 <div key={provider.id} className="bg-white rounded-lg shadow-md p-6">
                   <h3 className="text-xl font-semibold text-gray-900">
                     {provider.practice_name}
@@ -158,7 +193,8 @@ export default function DirectoryPage() {
                   </div>
                 </div>
               ))}
-            </div>
+              </div>
+            </>
           ) : null}
         </div>
       </div>
