@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabase';
+import { appendToSheet } from '@/lib/googlesheets';
 
 export async function POST(request: NextRequest) {
   try {
@@ -12,26 +12,13 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Insert email into subscribers table
-    const { data, error } = await supabase
-      .from('subscribers')
-      .insert([{ 
-        email,
-        subscribed_at: new Date().toISOString(),
-        source: 'modal'
-      }])
-      .select()
-      .single();
+    // Send to Google Sheets
+    await appendToSheet(email);
 
-    if (error) {
-      // If duplicate email, that's okay
-      if (error.code === '23505') {
-        return NextResponse.json({ success: true, message: 'Already subscribed' });
-      }
-      throw error;
-    }
-
-    return NextResponse.json({ success: true, data });
+    return NextResponse.json({ 
+      success: true, 
+      message: 'Subscribed successfully' 
+    });
   } catch (error) {
     console.error('Subscribe error:', error);
     return NextResponse.json(
