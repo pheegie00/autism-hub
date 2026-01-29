@@ -33,17 +33,32 @@ const MD_CITIES = [
   'Towson, MD'
 ];
 
-// Service types to search for
+// Service types to search for (based on intervention guide)
 const SERVICE_KEYWORDS = [
+  // Table 1: Evidence-Based
   'autism therapy',
-  'ABA therapy',
+  'ABA therapy Maryland',
+  'discrete trial training',
+  'ESDM therapy',
   'speech therapy autism',
   'occupational therapy autism',
+  'physical therapy autism',
+  'feeding therapy autism',
+  'AAC augmentative communication',
+  'DIR Floortime',
   'autism behavioral health',
   'developmental pediatrics',
   'autism evaluation',
-  'hyperbaric oxygen therapy',
-  'HBOT therapy'
+  
+  // Table 2: Investigational
+  'hyperbaric oxygen therapy Maryland',
+  'HBOT autism',
+  'integrative medicine autism',
+  
+  // General autism services
+  'autism center Maryland',
+  'autism clinic',
+  'developmental delays therapy'
 ];
 
 export async function searchAutismProviders(

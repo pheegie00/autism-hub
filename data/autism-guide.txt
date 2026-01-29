@@ -1,0 +1,2555 @@
+Here are the four comprehensive tables. Critical safety note: Items marked with
+
+☠️
+
+DANGER have caused deaths or serious injuries and represent medical
+fraud/abuse—avoid entirely regardless of cost.
+
+Table 1: Mainstream Evidence-Based (Typically Insurance Covered)
+Standard of care with established efficacy; prioritize these foundations
+
+TableCopy
+
+Intervention
+
+Discrete Trial Training (DTT)
+
+Target Domain
+
+Learning readiness,
+compliance, specific skills
+
+Notes on Access/Coverage
+
+Classic ABA format; widely
+covered but requires 20-40
+hrs/wk commitment
+
+Naturalistic Developmental
+Behavioral Interventions
+(NDBIs)
+
+• ESDM
+
+• Pivotal Response Treatment
+(PRT)
+
+Language, social
+
+Gold standard for language at
+
+engagement, pivotal
+
+age 4; play-based; often covered
+
+learning variables
+
+when coded as ABA or speech
+
+• Project ImPACT
+
+Crucial distinction:
+Evidence-based apraxia
+treatments include Dynamic
+
+Speech-Language Therapy
+(SLT)
+
+All communication levels;
+apraxia-specific
+techniques
+
+Temporal and Tactile Cueing
+(DTTC), Prompts for Restructuring
+Oral Muscular Phonetic Targets
+(PROMPT), and Rapid Syllable
+Transition Treatment (ReST). NOT
+"Spelling to Communicate" (S2C)
+or RPM (see Table 4)
+
+PECS, high-tech eye-gaze
+Augmentative & Alternative
+Communication (AAC)
+
+Functional
+
+devices (Tobii), tablet apps
+
+communication when
+
+(Proloquo2Go, LAMP); SGDs
+
+speech is limited
+
+often covered via insurance prior
+authorization
+
+Occupational Therapy (OT)
+
+• Sensory integration
+
+• Feeding therapy
+
+Feeding therapy (SOS approach)
+Sensory regulation, daily
+living skills, eating
+
+covered for
+failure-to-thrive/ARFID; sensory
+integration therapy has mixed
+evidence but standard coverage
+
+• Motor praxis
+
+Gross motor delays,
+Physical Therapy (PT)
+
+coordination, low muscle
+tone
+
+Covered when functional motor
+delays documented
+
+Coverage varies; sometimes
+DIR®/Floortime™
+
+Emotional regulation,
+
+covered as "developmental
+
+relationship foundations
+
+intervention" or out-of-pocket
+($100-200/session)
+
+Parent Management Training
+(PMT)
+It Takes Two to Talk specifically
+• Parent-Child Interaction
+
+Parent-child interaction,
+
+targets language delay;
+
+Therapy (PCIT)
+
+language modeling
+
+insurance usually covers group
+parent training
+
+• Hanen Programs (It Takes
+Two to Talk)
+
+Social Skills Groups
+
+Peer interaction, social
+
+(Pragmatic Language)
+
+cognition
+
+For age 4, likely "social
+communication groups" rather
+than formal CBT; often SLP-led
+
+Clinical Feeding Intervention
+
+ARFID, texture aversion,
+choking risk
+
+Pharmacotherapy
+
+• Risperidone
+
+sensory-based; covered when
+medically necessary
+
+Only FDA-approved meds for
+Irritability, aggression,
+self-injury
+
+ASD specifically; not for core
+social/communication
+symptoms; requires metabolic
+monitoring
+
+• Aripiprazole
+
+School-Based IEP Services
+
+Behavioral feeding therapy vs.
+
+Academic and functional
+goals
+
+Federally mandated (US);
+includes SLP, OT, behavioral
+support, and sometimes 1:1 aide
+
+Table 2: Investigational but Biologically Plausible
+Discuss with neurologist/geneticist; evidence emerging; may require compounding
+pharmacies or clinical trial access
+
+TableCopy
+
+Intervention
+
+Proposed Mechanism
+
+Evidence Status
+
+Key Considerations
+
+Strongest evidence in
+
+Folinic Acid
+
+Bypasses blocked
+
+(Leucovorin)
+
+folate receptors
+(autoantibodies),
+
+• 0.5-2mg/kg/day
+
+supports methylation
+
+this category.
+
+Must test: Serum
+
+Randomized trials
+
+FRAT (Folate Receptor
+
+show improvement in
+
+Autoantibodies), CSF
+
+verbal communication
+
+5-MTHF levels. Use
+
+for subset with FRAT
+
+prescription
+
+antibodies or
+
+leucovorin, not folic
+
+mitochondrial
+
+acid
+
+dysfunction
+
+Bumetanide
+
+• 0.5-2mg/day
+
+NKCC1 chloride
+
+Phase 3 trials ongoing;
+
+Requires ECG
+
+cotransporter
+
+initial promising
+
+monitoring (QTc
+
+inhibition; shifts GABA
+
+results for social
+
+prolongation risk),
+
+from excitatory to
+
+behavior and cognition
+
+electrolyte monitoring;
+
+inhibitory (the "GABA
+
+in young children;
+
+diuresis side effect
+
+switch")
+
+off-label diuretic
+
+manageable
+
+Positive initial trial
+Sulforaphane
+
+NRF2 pathway
+
+(Zimmerman et al.);
+
+activation; cellular
+
+replication studies
+
+• Broccoli sprout
+
+stress response; heat
+
+mixed; resembles
+
+extract
+
+shock proteins
+
+"fever effect"
+behaviorally
+
+Expensive
+supplements;
+myrosinase enzyme
+needed for activation;
+GI side effects
+
+Low-Dose
+Naltrexone (LDN)
+
+• 1-4.5mg qhs
+
+Microglial modulation;
+
+Small trials/case
+
+anti-inflammatory;
+
+series for irritability
+
+transient opioid
+
+and language; used
+
+blockade to boost
+
+widely in functional
+
+endorphins
+
+medicine
+
+RCTs show modest
+N-Acetylcysteine
+
+Glutamate modulation;
+
+(NAC)
+
+antioxidant
+
+reduction in
+irritability/repetitive
+behavior; inconsistent
+replication
+
+Large-scale trials
+Oxytocin
+(Intranasal)
+
+Social bonding
+
+largely disappointing
+
+hormone; amygdala
+
+for core symptoms;
+
+modulation
+
+may help specific
+social cognitive tasks
+
+Microbiome
+Interventions
+
+Compounded only;
+transient sleep
+disturbance initially;
+theoretical
+autoimmune
+mechanism
+
+Taste/smell
+unpleasant; GI upset;
+1200mg 2-3x daily
+dosing required
+
+Requires stable
+environment to work;
+timing dependent;
+prescription
+compounded nasal
+spray
+
+Gut-brain axis; immune
+
+Clinical trials ongoing
+
+FMT only in trials or
+
+modulation;
+
+(Arizona whole stool
+
+approved GI contexts;
+
+metabolite production
+
+high-diversity);
+
+risks if donor
+
+anecdotal success for
+
+screening inadequate;
+
+• Fecal
+Microbiota
+
+constipation-associate
+
+DIY fecal transplants
+
+d regression
+
+dangerous
+
+Transplant (FMT)
+
+• Precision
+probiotics
+
+Drug interactions
+Cannabidiol
+(CBD)
+
+Approved for seizures
+Anxiety reduction;
+
+in specific syndromes;
+
+seizure control
+
+autism trials ongoing
+for irritability/anxiety
+
+• Epidiolex
+
+(CYP450); must use
+medical-grade, not
+hemp-derived;
+THCV/CBD
+combinations being
+studied
+
+Cognitive
+Memantine
+(Namenda)
+
+NMDA receptor
+
+Off-label use for ADHD
+
+enhancement modest;
+
+antagonist; glutamate
+
+symptoms in ASD;
+
+requires titration;
+
+blocking
+
+fragile X trials
+
+contraindications with
+certain seizure types
+
+mTOR signaling;
+Metformin
+
+fragile X syndrome
+mechanism
+
+Trials specifically for
+fragile X and
+
+GI side effects
+
+antipsychotic-related
+
+common; lactic
+
+weight gain in ASD
+
+acidosis rare risk; B12
+
+malabsorption with
+long-term use
+
+ONLY biologically
+
+$5,000-10,000/month;
+
+plausible for subset
+
+risk of aseptic
+
+Intravenous
+
+Immunomodulation;
+
+with confirmed
+
+meningitis,
+
+Immunoglobulin
+
+autoimmune
+
+autoimmune
+
+thrombosis, kidney
+
+(IVIG)
+
+encephalitis treatment
+
+encephalitis
+
+failure; requires
+
+(PANS/PANDAS), not
+
+pre-authorization for
+
+general ASD
+
+immune deficiency
+
+Older literature
+High-Dose
+
+Neurotransmitter
+
+Vitamin B6 +
+
+synthesis; cofactor
+
+Magnesium
+
+support
+
+(Rimland); recent
+Cochrane review
+suggests possible
+benefit but quality of
+evidence poor
+
+High doses can cause
+peripheral neuropathy
+(B6 toxicity) or
+diarrhea (Mg); requires
+monitoring
+
+Evidence for genetic
+Carnitine/Acetyl-
+
+Mitochondrial fatty
+
+mitochondrial
+
+Fishy body odor side
+
+L-Carnitine
+
+acid transport
+
+disorders; may help
+
+effect; GI upset
+
+lethargy in ASD subset
+
+Transcranial
+
+Neuroplasticity
+
+Direct Current
+
+modulation; cortical
+
+Stimulation
+
+excitability
+
+(tDCS)
+
+modification
+
+Repetitive
+Transcranial
+Magnetic
+Stimulation
+
+Requires trained
+Research settings
+
+technician; seizure risk
+
+only; mixed results for
+
+theoretically low but
+
+language/repetition
+
+present; home devices
+not recommended
+
+Research protocols for
+
+Risk of seizure,
+
+Magnetic induction of
+
+irritability and
+
+headache; requires
+
+neural activity
+
+repetitive behaviors;
+
+sedation in young
+
+age limits usually 12+
+
+children usually
+
+(rTMS)
+
+Table 3: Low Cost, Low Risk Adjuncts
+"Can't hurt, might help"—appropriate as supplemental supports, not replacements for Table
+1
+
+TableCopy
+
+Category
+
+Specific Intervention
+
+Implementation Notes
+
+Environmental
+
+Visual schedules (First-Then boards,
+
+Modifications
+
+picture calendars)
+
+Decluttered, low-distraction spaces
+
+Noise-reducing headphones
+
+Free-printable resources online;
+reduces transition anxiety
+significantly
+
+Clearing visual "noise"; designated
+"calm down" corners with blankets
+
+$20-50 one-time; essential for
+sensory overwhelm in public
+
+Lighting adjustments (natural light,
+
+Low cost; headache/behavior
+
+dimmable, avoid fluorescent flicker)
+
+reduction
+
+Sensory
+
+Weighted lap pads (use with caution
+
+$30-80; proprioceptive input for
+
+Supports
+
+under 2 yrs) vs. compression vests
+
+regulation
+
+Fidget tools, chewy tubes (chewelry),
+
+$5-20; oral and tactile sensory
+
+stress balls
+
+seeking redirection
+
+Epsom salt baths (magnesium
+
+Absorption unproven, but
+
+sulfate)
+
+relaxation/ritual benefit; low risk
+
+Joint compressions, brushing
+
+Wilbarger protocol controversial but
+
+protocol (OT-supervised)
+
+low physical risk if done correctly
+
+Communication
+
+Basic sign language (ASL) even if
+
+Reduces frustration; free
+
+Supports
+
+verbal
+
+apps/YouTube resources
+
+Social stories (Carol Gray method)
+
+Lifestyle
+
+Free templates; specific to child's
+situation
+
+Video modeling (recording
+
+Smartphone; watch before social
+
+peers/scripts)
+
+event
+
+Sleep hygiene (dark room, white
+
+Free; critical for language
+
+noise, consistent routine)
+
+consolidation
+
+"Heavy work" activities (pushing
+
+Free; proprioceptive input
+
+wall, carrying groceries, playground)
+
+throughout day
+
+Swimming/water play
+
+Nature exposure ("green time")
+
+Movement breaks every 20-30 min if
+sedentary
+
+Low cost community pools;
+hydrostatic pressure calming
+
+Parks/free; attention restoration,
+sensory regulation
+
+Free; essential for regulation
+
+Dietary
+Supplements
+Melatonin 0.5-3mg (immediate
+(Low risk if
+
+release for sleep onset)
+
+dosed
+
+OTC; safest pediatric sleep aid; use
+lowest effective dose; avoid
+extended release in young kids
+
+appropriately)
+
+Vitamin D3 (if levels insufficient or
+
+1000-2000 IU daily; blood test first if
+
+borderline)
+
+possible
+
+Omega-3 fatty acids (fish oil,
+500-1000mg EPA+DHA)
+
+Probiotics (multi-strain, reputable
+brand)
+
+Generally recognized as safe;
+possible GI upset/fishy burps; slight
+bleeding risk at high doses
+
+Evidence weak for core autism
+symptoms but may help GI issues;
+$20-40/month
+
+Caregiver
+
+"Special Time" (10 min daily child-led
+
+Free; attachment security and
+
+Strategies
+
+play)
+
+language modeling
+
+Limited simultaneous demands
+
+Communication strategy; reduces
+
+(one-step directions during stress)
+
+frustration
+
+Reducing background media/TV
+
+Free; improves auditory processing
+
+noise
+
+opportunities
+
+Consistent positive reinforcement
+
+Free; catch them being good (4:1
+
+strategies
+
+ratio pos:neg interactions)
+
+Table 4: High Resource Investment (Significant Cost and/or Time Burden)
+
+⚠️ CRITICAL SAFETY TIER ⚠️
+High financial cost OR intensive time commitment; includes dangerous pseudoscience
+
+TableCopy
+
+Intervention
+
+Cost/Time
+Investment
+
+Risk Level
+
+Reality Check
+
+Weak evidence:
+
+$5,000-20,000 for
+Hyperbaric Oxygen
+Therapy (HBOT)
+
+40-session protocol;
+1-2 hrs/day, 5
+days/week for 8+
+weeks
+
+Moderate risk:
+Barotrauma (ear
+drum damage),
+oxygen toxicity,
+claustrophobia/anxie
+ty in children
+
+Multiple RCTs show
+no significant benefit
+over sham for core
+ASD symptoms;
+effective for radiation
+injury/decompressio
+n sickness, not
+autism
+
+Very high time cost:
+
+High risk without
+
+Some evidence for
+
+Ketogenic Diet
+
+Requires dedicated
+
+supervision:
+
+seizure control in
+
+(Classic or Modified
+
+dietitian
+
+Nutritional
+
+ASD+epilepsy;
+
+Atkins)
+
+($200-400/hr), all
+
+deficiencies, kidney
+
+minimal evidence for
+
+meals prepared from
+
+stones,
+
+core autism without
+
+scratch, weighing
+
+hyperlipidemia,
+
+seizures; requires
+
+food; 20-30 hrs/week
+
+constipation,
+
+metabolic monitoring
+
+parental labor
+
+metabolic acidosis,
+
+every 1-3 months
+
+growth delays
+
+Low physical risk
+(headache, fatigue)
+Neurofeedback (EEG
+Biofeedback)
+
+$3,000-10,000+ for
+
+but opportunity cost
+
+40-session course;
+
+risk: Time/funds
+
+2-3x weekly visits
+
+diverted from
+evidence-based
+treatment
+
+Mixed evidence;
+considered
+experimental by
+neurology; expensive
+"qEEG" mapping
+often upcharge
+
+Limited evidence for
+specific language
+Therapeutic
+Horseback Riding
+(Hippotherapy)
+
+gains; insurance may
+
+$100-200/session;
+weekly ongoing;
+
+Low physical risk
+
+classify as
+
+often 6-month
+
+(falls)
+
+"recreational" and
+
+minimum for benefit
+
+deny coverage;
+sensory benefit real
+but not curative
+
+Intensive
+
+$5,000-15,000
+
+Often redundant if
+
+Out-of-State
+
+(Autism centers of
+
+good local care
+
+Comprehensive
+
+excellence, "top
+
+Evaluations
+
+doctors")
+
+Low physical risk
+
+available; diagnostic
+overshadowing risk;
+medical tourism for
+
+autism evaluations
+rarely yields
+actionable new data
+
+Controversial field;
+Moderate concern:
+Vision
+Therapy/Behavioral
+Optometry
+
+$3,000-8,000 for
+
+Eye exercises don't
+
+in-office sessions;
+
+treat autism; delays
+
+"prism lenses"
+
+addressing actual
+
+additional $500-1000
+
+communication
+needs
+
+treat
+convergence/accom
+modation issues
+separately from
+autism; no evidence
+for "visual
+processing" as
+autism cause
+
+No evidence for
+Auditory Integration
+Training (AIT)
+
+(Berard method,
+
+Low physical risk
+
+language
+
+$1,500-3,000; 10
+
+(hearing damage
+
+improvement;
+
+sessions over 2
+
+from poorly
+
+pseudo-scientific
+
+weeks
+
+calibrated
+
+claims about
+
+equipment)
+
+"retraining" auditory
+
+Tomatis)
+
+processing debunked
+
+Gluten-Free/Casein-F
+ree Diet (Strict
+Implementation with
+
+$300-600/month
+
+Low-moderate risk:
+
+Large-scale trials
+
+additional food
+
+Nutritional
+
+show no benefit for
+
+costs; significant
+
+deficiencies
+
+core ASD symptoms
+
+meal prep time;
+
+(calcium, fiber, B
+
+beyond placebo; may
+
+Replacement
+
+social restriction
+
+vitamins), social
+
+help specific GI
+
+Products)
+
+burden
+
+isolation, reinforcing
+
+inflammation or
+
+restrictive eating
+
+celiac disease only
+
+patterns
+
+Varies wildly—some
+excellent
+Opportunity cost;
+
+(evidence-based
+
+Specialized Private
+
+$30,000-100,000+/ye
+
+may use
+
+ABA), some
+
+Autism Schools
+
+ar tuition
+
+non-evidence-based
+
+dangerous (see
+
+methods
+
+below); segregated
+setting may limit
+generalization
+
+☠️ DANGER: PSEUDOSCIENTIFIC/FRAUDULENT - AVOID COMPLETELY
+TableCopy
+
+Intervention
+
+CEASE "Therapy"
+
+(Complete Elimination of
+Autistic Spectrum
+Expression)
+
+Why It's Here
+
+The Harm
+
+Homeopathic protocol claiming
+
+Medical fraud: Based on
+
+to "detox" vaccines, ultrasounds,
+
+disproven vaccine-autism link;
+
+medications using "high
+
+involves giving children
+
+dilutions"
+
+preparations of vaccines and
+other substances; delays actual
+
+treatment; vitamin A toxicity
+protocols in some variants
+
+DEADLY: Has killed children via
+cardiac arrest and
+
+Chelation Therapy
+Claims to remove "mercury" or
+(EDTA, DMPS, DMSA,
+
+"heavy metals" causing autism
+
+"natural" chelators)
+
+hypocalcemia; no evidence
+autistic children have elevated
+heavy metals; dangerous
+misdirection from
+evidence-based care
+
+CHLORINE DIOXIDE
+Miracle Mineral Solution
+(MMS)
+
+CD/MMS/Chlorine
+
+(INDUSTRIAL BLEACH): Causes
+Claims to kill "parasites"
+
+vomiting, diarrhea (claimed as
+
+causing autism; promoted on
+
+"detox"), hemolysis, renal failure,
+
+alternative sites
+
+death; child abuse when
+administered to disabled
+
+Dioxide
+
+children
+
+$15,000-50,000+; Tumor
+Stem Cell Therapy
+
+(Offshore clinics:
+Mexico, Panama,
+Thailand, etc.)
+
+formation (uncontrolled cell
+Claims to "repair" brain with
+umbilical/embryonic stem cells
+
+growth), stroke from particulate
+emboli, infection, immune
+reactions; no evidence of
+benefit; FDA has issued
+warnings
+
+Explosion/fire risk with
+
+Hyperbaric "Mild"
+Chambers
+
+Soft-sided chambers rented for
+home use
+
+(Home rental units)
+
+supplemental oxygen;
+inadequate pressure for
+legitimate medical use; waste
+of money
+
+Note on "Spelling" Methods (S2C/RPM)
+
+Spelling to Communicate (S2C) and Rapid Prompting Method (RPM), often promoted
+through TikTok/Instagram as "unlocking" hidden intelligence via letterboards, belong in
+Table 4 (High Risk) despite low cost, due to opportunity cost and authorship concerns.
+
+●​ The Issue: Research indicates messages may originate from facilitator
+
+(ideomotor/automatic movements), not the child—similar to debunked Facilitated
+Communication (FC).
+●​ The Risk: False hope, educational neglect (not teaching actual functional
+communication), allegations of abuse based on false typed allegations, diversion
+from AAC systems that preserve autonomy.
+●​ Evidence: No controlled studies validate independent authorship; multiple cases
+of facilitators inadvertently guiding responses.
+Alternative: Focus on independent AAC systems (eye-gaze tech, independent typing
+with fading prompts photographed from behind) where authorship can be validated.
+also include a comprehensive set of testing that should be requested from medical
+professionals and companies where those tests can be procured with or without
+insurnace
+EditCopyShare
+
+Comprehensive Autism Diagnostic Testing Guide for a 4-Year-Old Child
+
+Here is the comprehensive testing roadmap, organized by clinical indication and
+insurance likelihood. CRITICAL: Genetic and metabolic tests require pre-test counseling
+about incidental findings (cancer risks, carrier status) — always go through a geneticist
+when possible.
+
+Tier 1: Standard of Care (Typically Insurance Covered)
+Order through: Primary Care, Developmental-Behavioral Pediatrics, or Neurology
+
+TableCopy
+
+Where to
+
+Test/Evaluation
+
+Clinical Purpose
+
+Comprehensive
+
+Kidney/liver function,
+
+LabCorp,
+
+Covered; required
+
+Metabolic Panel
+
+electrolytes, glucose
+
+Quest, hospital
+
+baseline before starting
+
+(CMP)
+
+baseline
+
+lab
+
+any meds
+
+Standard labs
+
+Covered
+
+CBC with Differential
+
+Anemia, infection,
+immune status
+
+Obtain
+
+Insurance Notes
+
+Thyroid Function
+(TSH, Free T4)
+
+Rule out hypothyroidism
+causing developmental
+
+Standard labs
+
+Covered
+
+delays
+
+Rule out heavy metal
+toxicity (often
+Lead Level (Blood)
+
+overlooked source of
+
+Covered; required in
+Standard labs
+
+developmental
+
+many states at 12/24
+months
+
+regression)
+
+Deficiency linked to
+Vitamin D 25-OH
+
+Iron Studies (Ferritin,
+TIBC)
+
+autism severity, immune
+
+Usually covered if
+Standard labs
+
+deficiency
+
+function
+
+suspected/symptoms
+
+Restless legs, sleep
+
+Covered; low ferritin
+
+disturbance, cognitive
+
+Standard labs
+
+impact
+
+Hearing Evaluation
+
+Rule out hearing loss
+
+(ABR or
+
+(must be done before
+
+Comprehensive
+
+Autism diagnosis
+
+Audiological)
+
+finalized)
+
+common in ASD even
+without anemia
+
+Pediatric
+
+Covered; often requires
+
+audiology
+
+sedation for ABR in
+
+clinics, ENT
+
+uncooperative kids
+
+Vision Screening
+(Comprehensive Eye
+Exam)
+
+Rule out vision
+
+Pediatric
+
+impairment, strabismus
+
+ophthalmology
+
+Rule out subclinical
+** EEG
+(Sleep-deprived or
+Sedated)**
+
+seizures (
+spike-and-wave without
+obvious convulsions);
+25-30% of ASD have
+abnormal EEGs
+
+Hospital
+neurology,
+epilepsy
+monitoring
+units
+
+Sleep apnea, restless
+Sleep Study
+
+leg, parasomnias
+
+Pediatric sleep
+
+(Polysomnography)
+
+affecting
+
+centers
+
+behavior/learning
+
+Covered annually
+
+Covered with neuro
+indication (regression,
+staring spells, language
+plateau)
+
+Covered if snoring,
+gasping, or severe
+insomnia documented
+
+Most common known
+Fragile X DNA
+Testing (FMR1)
+
+genetic cause of ASD
+(2-3% of boys);
+reproductive
+implications for family
+
+Standard labs
+(cytogenetics)
+
+Always covered if
+developmental delay
+present
+
+Detects copy number
+Chromosomal
+Microarray (CMA)
+
+variants
+(deletions/duplications)
+
+Covered; first-tier
+Standard labs
+
+like 16p11.2; 5-10% yield
+
+genetic test per genetics
+guidelines
+
+in ASD
+
+Tier 2: Specialized Genetic/Metabolic (Often Prior-Auth Required)
+Order through: Medical Geneticist, Metabolic Specialist, or Neurologist with genetics
+interest
+
+TableCopy
+
+Test
+
+Whole Exome
+Sequencing (WES) Trio (Proband + both
+parents)
+
+What It Detects
+
+Where to Obtain
+
+Insurance
+
+$2,500-5,000 ( Trio);
+
+Single-gene causes
+of ASD (SHANK3,
+
+GeneDx, Invitae,
+
+SCN2A, PTEN, etc.);
+
+Ambry Genetics,
+
+15-25% diagnostic
+
+hospital genetics labs
+
+yield
+
+Cost Without
+
+many labs have
+patient assistance
+programs ($0-250 if
+<400% federal
+poverty level)
+
+Mitochondrial DNA
+Analysis + Nuclear
+Mitochondrial Gene
+Panel
+
+Mitochondrial
+dysfunction (5-10% of
+ASD); affects
+treatment approach
+(folate, carnitine, etc.)
+
+Methylation gene
+variants
+MTHFR Genotyping
+
+(controversial but
+may inform folate
+dosing)
+
+Blocking/binding
+** Folate Receptor
+
+antibodies preventing
+
+Alpha Autoantibody
+
+folate transport into
+
+Test (FRAT)**
+
+brain (Cerebral Folate
+Deficiency)
+
+Cincinnati Children's
+
+$1,500-3,500;
+
+Diagnostic Lab,
+
+coverage variable -
+
+GeneDx, Baylor
+
+often covered if
+
+Genetics, Muscular
+
+hypotonia, fatigue,
+
+Dystrophy
+
+multisystem
+
+Association clinics
+
+involvement
+
+23andMe
+
+$150-300
+
+(consumer), or
+
+out-of-pocket; rarely
+
+medical labs
+
+medically necessary
+
+(LabCorp #511238)
+
+enough for insurance
+
+FRAT
+
+~$300-450; not
+
+(folatereceptor.com) -
+
+covered by most
+
+mail-in kit available;
+
+insurers (
+
+also available
+
+investigational);
+
+through medical
+
+critical if considering
+
+providers
+
+leucovorin
+
+Definitive test for
+Cerebrospinal Fluid
+(CSF) 5-MTHF
+
+cerebral folate
+
+Hospital neurology
+
+deficiency (low spinal
+
+(lumbar puncture
+
+fluid folate despite
+
+required)
+
+normal blood)
+
+Covered as
+procedure; requires
+sedation in
+4-year-old; LP risk
+
+Mitochondrial
+
+The Great Plains
+
+Organic Acids (OAT)
+
+dysfunction markers,
+
+Laboratory, Genova
+
+- Urine
+
+yeast overgrowth,
+
+Diagnostics, standard
+
+oxalate metabolism
+
+hospital labs
+
+Inborn errors of
+Plasma Amino Acids
+
+metabolism, serine
+deficiency disorders
+
+Acylcarnitine Profile
+
+$300-400
+out-of-pocket;
+insurance sometimes
+covers if metabolic
+disorder suspected
+
+Usually covered if
+Hospital lab,
+
+regression /
+
+specialty labs
+
+developmental
+concerns
+
+Fatty acid oxidation
+
+Newborn screening
+
+disorders, carnitine
+
+follow-up, metabolic
+
+deficiency
+
+clinics
+
+Usually covered
+
+Adrenoleukodystroph
+Very Long Chain
+
+y (if
+
+Peroxisomal disease
+
+Covered with red
+
+Fatty Acids (VLCFA)
+
+regression/behavioral
+
+centers
+
+flags
+
+changes)
+
+Tier 3: Neurodevelopmental/Behavioral Assessment (Usually Covered)
+
+Order through: Developmental-Behavioral Pediatrics, Child Neuropsychology, Autism
+Centers
+
+TableCopy
+
+Assessment
+
+Purpose
+
+ADOS-2 (Autism
+
+Administered By
+
+Coverage
+
+Psychologist, SLP,
+
+Covered as part of
+
+Diagnostic
+
+Gold standard autism
+
+developmental
+
+diagnostic evaluation;
+
+Observation
+
+diagnostic observation
+
+pediatrician (must be
+
+CPT code
+
+research reliable)
+
+90791/90792 + 96116
+
+Same as above
+
+Covered
+
+Schedule)
+
+ADOS-2 Toddler
+Module
+
+Specifically for 12-30
+months (your child is
+4, so Module 1 or 2)
+
+ADI-R (Autism
+Diagnostic
+
+Parent interview for
+
+Psychologist,
+
+Often bundled with
+
+Interview-Revise
+
+diagnostic history
+
+psychiatrist
+
+ADOS
+
+d)
+
+Bayley Scales of
+Infant
+
+Cognitive, language,
+
+Development-4
+
+motor functioning
+
+(BSID-4)
+
+Mullen Scales of
+Early Learning
+
+Neuropsychologist,
+
+Covered; re-eval every
+
+developmental
+
+6-12 months in young
+
+pediatrician
+
+children
+
+Psychologist
+
+Covered
+
+Alternative to Bayley
+for young/delayed
+children
+
+Vineland
+
+Daily living skills,
+
+Adaptive
+
+communication,
+
+Interview with
+
+Covered; often
+
+Behavior
+
+socialization (crucial
+
+caregiver
+
+required by schools
+
+Scales-3
+
+for IEP planning)
+
+PEP-3
+
+Autism-specific
+
+(Psychoeducatio
+
+learning profile for
+
+Special educator,
+
+School-based or
+
+nal Profile)
+
+educational planning
+
+psychologist
+
+private insurance
+
+Language
+Samples (MLU,
+Type-Token
+Ratio)
+
+Spontaneous language
+analysis (more valid
+than standardized
+tests for minimally
+verbal kids)
+
+SLP
+
+Covered as part of
+speech eval
+
+CASL-2 or
+
+Standardized language
+
+CELF-P2
+
+testing
+
+SLP
+
+Covered
+
+Covered by some
+Sensory Profile-2
+
+Sensory processing
+
+or SPM
+
+patterns
+
+plans; sometimes
+
+OT
+
+out-of-pocket
+($75-150)
+
+Tier 4: Immune/Autoimmune/Infectious (Mixed Coverage)
+Order through: Immunologist, Rheumatologist, or Autism Specialist MD
+
+TableCopy
+
+Test
+
+Indication/Source
+
+Anti-Streptococcal
+
+PANS/PANDAS
+
+Antibodies (ASO,
+
+evaluation if sudden
+
+Anti-DNase B)
+
+OCD/regression
+
+Lab/Company
+
+Cost/Access
+
+Standard labs
+
+Covered
+
+Cunningham Panel
+
+Autoimmune
+
+Moleculera Labs
+
+~$900-1,200; rarely
+
+(Autoimmune Basal
+
+neuropsychiatric
+
+(moleculeralabs.c
+
+covered by insurance;
+
+Ganglia)
+
+disorders
+
+om)
+
+payment plans available
+
+If tick exposure,
+Lyme Western Blot +
+
+endemic area,
+
+ELISA
+
+fluctuating
+
+Standard labs
+
+Covered with appropriate
+history
+
+symptoms
+
+Food Allergy Testing
+(IgE)
+
+Celiac Panel
+(tTG-IgA, total IgA)
+
+Inflammatory
+Markers (CRP, ESR,
+ferritin)
+
+True IgE-mediated
+allergies (not
+"sensitivities")
+
+Allergy/Immunolo
+
+Covered if hives,
+
+gy clinic
+
+anaphylaxis, eczema
+
+IgA deficiency
+common in ASD;
+
+Standard labs
+
+celiac rule-out
+
+Baseline
+inflammation
+
+Standard labs
+
+Covered with GI
+symptoms
+
+Covered
+
+Cytokine Panel
+(Th1/Th2)
+
+Immune
+
+Cyrex Labs (Array
+
+dysregulation
+
+12), Quest (select
+
+research
+
+cytokines)
+
+Strep throat culture
+
+PANDAS flare
+
+rapid + culture
+
+management
+
+Pediatrician
+
+$300-600; investigational;
+not covered
+
+Covered
+
+Tier 5: Gastrointestinal/Nutritional (Often Out-of-Pocket)
+Order through: Gastroenterologist (for procedures) or Functional Medicine MD
+
+TableCopy
+
+Test
+
+Clinical Utility
+
+Comprehensiv
+
+Companies/Access
+
+Genova Diagnostics (GI
+
+e Stool
+
+Digestion, absorption,
+
+Effects), Doctor's Data,
+
+Analysis
+
+microbiome, parasites
+
+Diagnostic Solutions
+
+(CSA)
+
+(GI-MAP)
+
+Insurance Reality
+
+$300-500; not covered
+by standard insurance;
+"functional medicine"
+
+IgG Food
+Sensitivity
+Testing
+
+Functional
+Organic Acids
+(Nutritional
+OAT)
+
+Controversial: Not
+
+$200-400; Not covered;
+
+validated for autism
+
+Every functional
+
+American Academy of
+
+treatment; may show
+
+medicine lab offers this
+
+Allergy considers IgG
+
+leaky gut markers
+
+Yeast/fungal markers,
+oxalates, mitochondrial
+metabolites
+
+testing non-diagnostic
+
+The Great Plains
+Laboratory
+
+$300-350; Not covered
+
+PSEUDOSCIENCE:
+Hair Mineral
+
+Unreliable for mineral
+
+Analysis
+
+status; affected by hair
+
+Various labs
+
+Not recommended;
+waste of money
+
+color/treatment
+
+DANGEROUS/MISLEAD
+Heavy Metal
+
+ING: Used to justify
+
+Provoked
+
+chelation; artificially
+
+Urine Test
+
+"provoked" with DMSA
+shows false elevation
+
+Chelation clinics
+
+Avoid; this is a red flag
+for quackery
+
+SIBO Breath
+
+Small intestinal
+
+Testing
+
+bacterial overgrowth if
+
+(Hydrogen/M
+
+bloating/pain/constipat
+
+ethane)
+
+ion
+
+Endoscopy/C
+
+Eosinophilic
+
+olonoscopy
+
+esophagitis, colitis,
+
+with Biopsies
+
+celiac confirmation
+
+Pancreatic
+Elastase
+
+Commonwealth
+
+Sometimes covered;
+
+Diagnostics, standard
+
+often $150-300
+
+GI practices
+
+out-of-pocket
+
+Covered with
+Hospital GI
+
+symptoms; require
+anesthesia in 4-year-old
+
+Exocrine pancreatic
+insufficiency (fat
+
+Standard labs
+
+Covered
+
+malabsorption)
+
+Specific Company/Lab Directory for Out-of-Pocket/ Specialized Testing
+TableCopy
+
+Company/Orga
+nization
+
+Specialization
+
+Contact/Access
+
+Financial Assistance
+
+Genetic testing leader
+GeneDx
+
+(WES, targeted
+
+genedx.com
+
+panels)
+
+Invitae
+
+Ambry Genetics
+
+FRAT
+(folatereceptor.
+com)
+
+Medical-grade genetic
+testing
+
+Autism gene panels,
+exome
+
+Folate receptor
+autoantibodies only
+
+Moleculera
+
+Cunningham Panel
+
+Labs
+
+(autoimmune neuro)
+
+GeneDx Cares program;
+patient assistance
+
+$250 patient-pay option
+invitae.com
+
+for many panels;
+accepts HSA
+
+ambrygen.com
+
+Mail-order kit
+available; requires
+physician signature
+
+Ambry CARE program
+
+None; ~$300-400 flat
+rate
+
+moleculeralabs.com;
+
+Self-pay ($925); some
+
+requires physician
+
+insurance
+
+account
+
+reimbursement possible
+
+Neuro need
+(neuroneed.co
+m)
+
+Specialized
+neurological
+
+Provider-only; find
+
+supplements + some
+
+practitioner on site
+
+N/A
+
+testing
+
+The Great
+
+OAT, mycotoxin
+
+Plains
+
+testing, food
+
+Laboratory
+
+sensitivities
+
+Genova
+
+Comprehensive stool,
+
+Diagnostics
+
+nutritional, hormonal
+
+Cyrex
+
+Autoimmune/food
+
+Laboratories
+
+reactivity arrays
+
+Mayo Clinic
+
+Specialized metabolic,
+
+Laboratories
+
+autoimmune
+
+Direct access in some
+gpl4u.com
+
+states; requires
+physician in others
+
+Cash-pay discounts;
+gdx.net
+
+patient direct access
+varies by state
+
+cyrexlabs.com
+
+Through ordering
+physician; reference
+lab
+
+Provider-only; expensive
+($300-800 per array)
+
+Insurance usually covers
+if ordered by specialist
+
+Boston
+Children's
+
+Research-grade
+
+Requires specialist
+
+Insurance/billing
+
+Hospital
+
+metabolic
+
+referral
+
+standard
+
+Laboratory
+
+Red Flag Tests to AVOID (Fraudulent/Invalid)
+TableCopy
+
+Test/Company
+
+Why It's Fraudulent
+
+The Damage
+
+Hair Analysis for
+
+Hair mineral content does not
+
+"Heavy Metal
+
+reflect body burden; no
+
+Toxicity"
+
+standardization
+
+Live Blood Cell
+
+Dark-field microscopy showing
+
+Complete pseudoscience; camera
+
+Analysis
+
+"parasites" or "yeast" in live blood
+
+artifact interpretation
+
+Electrodermal
+
+"Energy" testing for food
+
+No scientific validity; delays
+
+Testing (Vega)
+
+allergies/sensitivities
+
+appropriate allergy testing
+
+Falsely claims mercury toxicity
+requiring dangerous chelation
+
+Urine Toxic Metals
+Challenge Test
+
+Stool PCR panels
+from non-CLIA labs
+
+Online "Autism
+Biomarker" panels
+
+Provoked excretion using chelating
+agents to create artificially high
+numbers
+
+Used to justify dangerous
+chelation therapy
+
+Misleading "dysbiosis" claims
+Unvalidated microbiome testing
+
+leading to unnecessary restrictive
+diets
+
+Direct-to-consumer labs selling
+non-specific inflammation markers
+as "autism tests"
+
+Expensive ($500-2000) for tests
+with no diagnostic validity
+
+Sample Diagnostic Script for Your First Genetics Visit
+"We want a comprehensive workup to guide treatment. Specifically, we're requesting:
+
+1.​ Chromosomal microarray and Fragile X (standard)
+2.​ Whole exome sequencing trio if microarray negative
+3.​ Mitochondrial DNA and nuclear mitochondrial panel given low tone/fatigue/folate
+
+response
+4.​ FRAT testing for folate receptor antibodies (we'll pay out of pocket if denied)
+5.​ Targeted metabolic panel including plasma amino acids, acylcarnitine,
+pyruvate/lactate
+6.​ Thyroid panel with antibodies, B12, homocysteine, MMA
+
+We also want to rule out autoimmune/encephalitic processes given language regression
+concerns [if applicable] - would you order the Cunningham Panel or refer to immunology?"
+
+Next steps: Bring this list to your geneticist, but let them guide prioritization based on
+your child's specific phenotype (dysmorphic features? growth charts? seizure history?).
+The geneticist will also discuss "secondary findings" — unrelated cancer/heart risks that
+may be found incidentally on exome sequencing. You can opt out of receiving these if
+preferred.
+K2.5 Thinking
+
+
