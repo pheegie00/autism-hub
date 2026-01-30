@@ -102,13 +102,31 @@ export async function fetchPubMedDetails(pmids: string[]): Promise<PubMedArticle
       articleList = [articleList];
     }
 
+    // Helper to extract text from potentially complex XML objects
+    const extractText = (value: unknown): string => {
+      if (typeof value === 'string') return value;
+      if (typeof value === 'number') return String(value);
+      if (value === null || value === undefined) return '';
+      if (typeof value === 'object') {
+        // Handle objects like { "#text": "content", "sup": "1" }
+        const obj = value as Record<string, unknown>;
+        if ('#text' in obj) return String(obj['#text']);
+        // Try to extract any text-like content
+        const textContent = Object.values(obj)
+          .filter(v => typeof v === 'string')
+          .join(' ');
+        return textContent || JSON.stringify(value);
+      }
+      return String(value);
+    };
+
     for (const article of articleList) {
       try {
         const medlineCitation = article.MedlineCitation;
         const pmid = medlineCitation?.PMID?.['#text'] || medlineCitation?.PMID || 'unknown';
         
         const articleData = medlineCitation?.Article;
-        const title = articleData?.ArticleTitle || 'No title available';
+        const title = extractText(articleData?.ArticleTitle) || 'No title available';
         
         let abstract = 'No abstract available';
         const abstractData = articleData?.Abstract?.AbstractText;
@@ -143,8 +161,8 @@ export async function fetchPubMedDetails(pmids: string[]): Promise<PubMedArticle
           }
         }
 
-        const journal = articleData?.Journal?.Title || 
-                       articleData?.Journal?.ISOAbbreviation || 
+        const journal = extractText(articleData?.Journal?.Title) || 
+                       extractText(articleData?.Journal?.ISOAbbreviation) || 
                        'Unknown journal';
 
         let publicationDate = 'Date unknown';

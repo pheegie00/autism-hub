@@ -1,0 +1,957 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "← Back to Home" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - heading "🔬 International Autism Research" [level=1] [ref=e6]
+      - paragraph [ref=e7]: Search PubMed's global database of medical research
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - 'textbox "Search: microbiome, HBOT, MMR vaccine, stem cell..." [ref=e11]': microbiome
+          - button "Search" [ref=e12]
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: "Popular searches:"
+          - generic [ref=e15]:
+            - button "microbiome" [active] [ref=e16]
+            - button "HBOT" [ref=e17]
+            - button "leucovorin" [ref=e18]
+            - button "stem cell" [ref=e19]
+            - button "oxytocin" [ref=e20]
+            - button "bumetanide" [ref=e21]
+            - button "CBD" [ref=e22]
+            - button "MMR vaccine" [ref=e23]
+            - button "African American boys" [ref=e24]
+            - button "racial disparities" [ref=e25]
+            - button "vaccine safety" [ref=e26]
+        - paragraph [ref=e27]: 🌍 Searching international PubMed database • All languages • Up to 50 papers per search
+      - generic [ref=e28]:
+        - paragraph [ref=e30]: Found 50 research papers
+        - generic [ref=e31]:
+          - article [ref=e32]:
+            - generic [ref=e34]: "PubMed ID: 36232548"
+            - link "The Microbiota-Gut-Brain Axis in Psychiatric Disorders." [ref=e35] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/36232548/
+            - generic [ref=e36]:
+              - generic [ref=e37]: 👥 G&#xf3;ralczyk-Bi&#x144;kowska A, Szmajda-Krygier D, Koz&#x142;owska E
+              - generic [ref=e38]: •
+              - generic [ref=e39]: 📖 International journal of molecular sciences
+              - generic [ref=e40]: •
+              - generic [ref=e41]: 📅 Sep 2022
+            - generic [ref=e42]:
+              - paragraph [ref=e43]:
+                - generic [ref=e44]: 📄
+                - text: Abstract
+              - paragraph [ref=e45]: Modulating the gut microbiome and its influence on human health is the subject of intense research. The gut microbiota could be associated not only with gastroenterological diseases but also with psychiatric disorders. The importance of factors such as stress, mode of delivery, the role of probiotics, circadian clock system, diet, and occupational and environmental exposure in the relationship between the gut microbiota and brain function through bidirectional communication, described as "the mi
+            - link "Read Full Paper →" [ref=e47] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/36232548/
+          - article [ref=e48]:
+            - generic [ref=e50]: "PubMed ID: 35937689"
+            - link "Role of Gut Microbiome in Autism Spectrum Disorder and Its Therapeutic Regulation." [ref=e51] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/35937689/
+            - generic [ref=e52]:
+              - generic [ref=e53]: 👥 Taniya MA, Chung HJ, Al Mamun A, et al.
+              - generic [ref=e54]: •
+              - generic [ref=e55]: 📖 Frontiers in cellular and infection microbiology
+              - generic [ref=e56]: •
+              - generic [ref=e57]: 📅 2022
+            - generic [ref=e58]:
+              - paragraph [ref=e59]:
+                - generic [ref=e60]: 📄
+                - text: Abstract
+              - paragraph [ref=e61]: Autism spectrum disorder (ASD) is a neurological disorder that affects normal brain development. The recent finding of the microbiota-gut-brain axis indicates the bidirectional connection between our gut and brain, demonstrating that gut microbiota can influence many neurological disorders such as autism. Most autistic patients suffer from gastrointestinal (GI) symptoms. Many studies have shown that early colonization, mode of delivery, and antibiotic usage significantly affect the gut microbiom
+            - link "Read Full Paper →" [ref=e63] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/35937689/
+          - article [ref=e64]:
+            - generic [ref=e66]: "PubMed ID: 32192218"
+            - 'link "Composition of Gut Microbiota in Children with Autism Spectrum Disorder: A Systematic Review and Meta-Analysis." [ref=e67] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32192218/
+            - generic [ref=e68]:
+              - generic [ref=e69]: 👥 Iglesias-V&#xe1;zquez L, Van Ginkel Riba G, Arija V, et al.
+              - generic [ref=e70]: •
+              - generic [ref=e71]: 📖 Nutrients
+              - generic [ref=e72]: •
+              - generic [ref=e73]: 📅 Mar 2020
+            - generic [ref=e74]:
+              - paragraph [ref=e75]:
+                - generic [ref=e76]: 📄
+                - text: Abstract
+              - paragraph [ref=e77]: Autism spectrum disorder (ASD) is a public health problem and has a prevalence of 0.6%-1.7% in children. As well as psychiatric symptoms, dysbiosis and gastrointestinal comorbidities are also frequently reported. The gut-brain microbiota axis suggests that there is a form of communication between microbiota and the brain underlying some neurological disabilities. The aim of this study is to describe and compare the composition of gut microbiota in children with and without ASD. Electronic databa
+            - link "Read Full Paper →" [ref=e79] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32192218/
+          - article [ref=e80]:
+            - generic [ref=e82]: "PubMed ID: 29902437"
+            - link "Gut Microbiota Regulation of Tryptophan Metabolism in Health and Disease." [ref=e83] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29902437/
+            - generic [ref=e84]:
+              - generic [ref=e85]: 👥 Agus A, Planchais J, Sokol H
+              - generic [ref=e86]: •
+              - generic [ref=e87]: 📖 Cell host & microbe
+              - generic [ref=e88]: •
+              - generic [ref=e89]: 📅 Jun 2018
+            - generic [ref=e90]:
+              - paragraph [ref=e91]:
+                - generic [ref=e92]: 📄
+                - text: Abstract
+              - paragraph [ref=e93]: The gut microbiota is a crucial actor in human physiology. Many of these effects are mediated by metabolites that are either produced by the microbes or derived from the transformation of environmental or host molecules. Among the array of metabolites at the interface between these microorganisms and the host is the essential aromatic amino acid tryptophan (Trp). In the gut, the three major Trp metabolism pathways leading to serotonin (5-hydroxytryptamine), kynurenine (Kyn), and indole derivativ
+            - link "Read Full Paper →" [ref=e95] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29902437/
+          - article [ref=e96]:
+            - generic [ref=e98]: "PubMed ID: 32305492"
+            - link "Probiotics and fructo-oligosaccharide intervention modulate the microbiota-gut brain axis to improve autism spectrum reducing also the hyper-serotonergic state and the dopamine metabolism disorder." [ref=e99] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32305492/
+            - generic [ref=e100]:
+              - generic [ref=e101]: 👥 Wang Y, Li N, Yang JJ, et al.
+              - generic [ref=e102]: •
+              - generic [ref=e103]: 📖 Pharmacological research
+              - generic [ref=e104]: •
+              - generic [ref=e105]: 📅 Jul 2020
+            - generic [ref=e106]:
+              - paragraph [ref=e107]:
+                - generic [ref=e108]: 📄
+                - text: Abstract
+              - paragraph [ref=e109]: The prevalence of autism spectrum disorders (ASD) is increasing, but its etiology remains elusive and hence an effective treatment is not available. Previous research conducted on animal models suggests that microbiota-gut-brain axis may contribute to ASD pathology and more human research is needed. This study was divided into two stages,.At the discovery stage, we compared the differences in gut microbiota profiles (using 16S rRNA sequencing), fecal SCFAs (using GC-MS) and plasma neurotransmitt
+            - link "Read Full Paper →" [ref=e111] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32305492/
+          - article [ref=e112]:
+            - generic [ref=e114]: "PubMed ID: 31150625"
+            - link "Human Gut Microbiota from Autism Spectrum Disorder Promote Behavioral Symptoms in Mice." [ref=e115] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31150625/
+            - generic [ref=e116]:
+              - generic [ref=e117]: 👥 Sharon G, Cruz NJ, Kang DW, et al.
+              - generic [ref=e118]: •
+              - generic [ref=e119]: 📖 Cell
+              - generic [ref=e120]: •
+              - generic [ref=e121]: 📅 May 2019
+            - generic [ref=e122]:
+              - paragraph [ref=e123]:
+                - generic [ref=e124]: 📄
+                - text: Abstract
+              - paragraph [ref=e125]: Autism spectrum disorder (ASD) manifests as alterations in complex human behaviors including social communication and stereotypies. In addition to genetic risks, the gut microbiome differs between typically developing (TD) and ASD individuals, though it remains unclear whether the microbiome contributes to symptoms. We transplanted gut microbiota from human donors with ASD or TD controls into germ-free mice and reveal that colonization with ASD microbiota is sufficient to induce hallmark autisti
+            - link "Read Full Paper →" [ref=e127] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31150625/
+          - article [ref=e128]:
+            - generic [ref=e130]: "PubMed ID: 28122648"
+            - 'link "Microbiota Transfer Therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study." [ref=e131] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28122648/
+            - generic [ref=e132]:
+              - generic [ref=e133]: 👥 Kang DW, Adams JB, Gregory AC, et al.
+              - generic [ref=e134]: •
+              - generic [ref=e135]: 📖 Microbiome
+              - generic [ref=e136]: •
+              - generic [ref=e137]: 📅 Jan 2017
+            - generic [ref=e138]:
+              - paragraph [ref=e139]:
+                - generic [ref=e140]: 📄
+                - text: Abstract
+              - paragraph [ref=e141]: Autism spectrum disorders (ASD) are complex neurobiological disorders that impair social interactions and communication and lead to restricted, repetitive, and stereotyped patterns of behavior, interests, and activities. The causes of these disorders remain poorly understood, but gut microbiota, the 10bacteria in the human intestines, have been implicated because children with ASD often suffer gastrointestinal (GI) problems that correlate with ASD severity. Several previous studies have reported
+            - link "Read Full Paper →" [ref=e143] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28122648/
+          - article [ref=e144]:
+            - generic [ref=e146]: "PubMed ID: 28164854"
+            - link "The Microbiome-Gut-Brain Axis in Health and Disease." [ref=e147] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28164854/
+            - generic [ref=e148]:
+              - generic [ref=e149]: 👥 Dinan TG, Cryan JF
+              - generic [ref=e150]: •
+              - generic [ref=e151]: 📖 Gastroenterology clinics of North America
+              - generic [ref=e152]: •
+              - generic [ref=e153]: 📅 Mar 2017
+            - generic [ref=e154]:
+              - paragraph [ref=e155]:
+                - generic [ref=e156]: 📄
+                - text: Abstract
+              - paragraph [ref=e157]: Gut microbes are capable of producing most neurotransmitters found in the human brain. Evidence is accumulating to support the view that gut microbes influence central neurochemistry and behavior. Irritable bowel syndrome is regarded as the prototypic disorder of the brain-gut-microbiota axis that can be responsive to probiotic therapy. Translational studies indicate that certain bacteria may have an impact on stress responses and cognitive functioning. Manipulating the gut microbiota with psych
+            - link "Read Full Paper →" [ref=e159] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28164854/
+          - article [ref=e160]:
+            - generic [ref=e162]: "PubMed ID: 34960049"
+            - 'link "The Brain-Gut-Microbiome System: Pathways and Implications for Autism Spectrum Disorder." [ref=e163] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34960049/
+            - generic [ref=e164]:
+              - generic [ref=e165]: 👥 Chernikova MA, Flores GD, Kilroy E, et al.
+              - generic [ref=e166]: •
+              - generic [ref=e167]: 📖 Nutrients
+              - generic [ref=e168]: •
+              - generic [ref=e169]: 📅 Dec 2021
+            - generic [ref=e170]:
+              - paragraph [ref=e171]:
+                - generic [ref=e172]: 📄
+                - text: Abstract
+              - paragraph [ref=e173]: Gastrointestinal dysfunction is one of the most prevalent physiological symptoms of autism spectrum disorder (ASD). A growing body of largely preclinical research suggests that dysbiotic gut microbiota may modulate brain function and social behavior, yet little is known about the mechanisms that underlie these relationships and how they may influence the pathogenesis or severity of ASD. While various genetic and environmental risk factors have been implicated in ASD, this review aims to provide
+            - link "Read Full Paper →" [ref=e175] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34960049/
+          - article [ref=e176]:
+            - generic [ref=e178]: "PubMed ID: 37049461"
+            - 'link "Intestinal Barrier Dysfunction and Microbiota-Gut-Brain Axis: Possible Implications in the Pathogenesis and Treatment of Autism Spectrum Disorder." [ref=e179] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37049461/
+            - generic [ref=e180]:
+              - generic [ref=e181]: 👥 Dargenio VN, Dargenio C, Castellaneta S, et al.
+              - generic [ref=e182]: •
+              - generic [ref=e183]: 📖 Nutrients
+              - generic [ref=e184]: •
+              - generic [ref=e185]: 📅 Mar 2023
+            - generic [ref=e186]:
+              - paragraph [ref=e187]:
+                - generic [ref=e188]: 📄
+                - text: Abstract
+              - paragraph [ref=e189]: "Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder with multifactorial etiology, characterized by impairment in two main functional areas: (1) communication and social interactions, and (2) skills, interests and activities. ASD patients often suffer from gastrointestinal symptoms associated with dysbiotic states and a \"leaky gut.\" A key role in the pathogenesis of ASD has been attributed to the gut microbiota, as it influences central nervous system development and neuropsyc"
+            - link "Read Full Paper →" [ref=e191] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37049461/
+          - article [ref=e192]:
+            - generic [ref=e194]: "PubMed ID: 34985325"
+            - link "A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders." [ref=e195] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34985325/
+            - generic [ref=e196]:
+              - generic [ref=e197]: 👥 Sorboni SG, Moghaddam HS, Jafarzadeh-Esfehani R, et al.
+              - generic [ref=e198]: •
+              - generic [ref=e199]: 📖 Clinical microbiology reviews
+              - generic [ref=e200]: •
+              - generic [ref=e201]: 📅 Jan 2022
+            - generic [ref=e202]:
+              - paragraph [ref=e203]:
+                - generic [ref=e204]: 📄
+                - text: Abstract
+              - paragraph [ref=e205]: The human body is full of an extensive number of commensal microbes, consisting of bacteria, viruses, and fungi, collectively termed the human microbiome. The initial acquisition of microbiota occurs from both the external and maternal environments, and the vast majority of them colonize the gastrointestinal tract (GIT). These microbial communities play a central role in the maturation and development of the immune system, the central nervous system, and the GIT system and are also responsible f
+            - link "Read Full Paper →" [ref=e207] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34985325/
+          - article [ref=e208]:
+            - generic [ref=e210]: "PubMed ID: 34767757"
+            - link "Autism-related dietary preferences mediate autism-gut microbiome associations." [ref=e211] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34767757/
+            - generic [ref=e212]:
+              - generic [ref=e213]: 👥 Yap CX, Henders AK, Alvares GA, et al.
+              - generic [ref=e214]: •
+              - generic [ref=e215]: 📖 Cell
+              - generic [ref=e216]: •
+              - generic [ref=e217]: 📅 Nov 2021
+            - generic [ref=e218]:
+              - paragraph [ref=e219]:
+                - generic [ref=e220]: 📄
+                - text: Abstract
+              - paragraph [ref=e221]: There is increasing interest in the potential contribution of the gut microbiome to autism spectrum disorder (ASD). However, previous studies have been underpowered and have not been designed to address potential confounding factors in a comprehensive way. We performed a large autism stool metagenomics study (n&#xa0;= 247) based on participants from the Australian Autism Biobank and the Queensland Twin Adolescent Brain project. We found negligible direct associations between ASD diagnosis and th
+            - link "Read Full Paper →" [ref=e223] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34767757/
+          - article [ref=e224]:
+            - generic [ref=e226]: "PubMed ID: 40449388"
+            - 'link "Understanding autism: Causes, diagnosis, and advancing therapies." [ref=e227] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40449388/
+            - generic [ref=e228]:
+              - generic [ref=e229]: 👥 Wang M, Zhang X, Zhong L, et al.
+              - generic [ref=e230]: •
+              - generic [ref=e231]: 📖 Brain research bulletin
+              - generic [ref=e232]: •
+              - generic [ref=e233]: 📅 Jul 2025
+            - generic [ref=e234]:
+              - paragraph [ref=e235]:
+                - generic [ref=e236]: 📄
+                - text: Abstract
+              - paragraph [ref=e237]: Autism Spectrum Disorder (ASD) is a neurodevelopmental condition marked by difficulties in social communication, languages, and repetitive behaviors. Its rising prevalence has made it a critical global public health issue. ASD is believed to arise from a combination of genetic and environmental influences. While some gene mutations associated with ASD have been identified, most cases lack clear genetic explanations. Evidence increasingly points to early-life environmental factors as key contribu
+            - link "Read Full Paper →" [ref=e239] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40449388/
+          - article [ref=e240]:
+            - generic [ref=e242]: "PubMed ID: 41010510"
+            - 'link "Microbiota Gut-Brain Axis and Autism Spectrum Disorder: Mechanisms and Therapeutic Perspectives." [ref=e243] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/41010510/
+            - generic [ref=e244]:
+              - generic [ref=e245]: 👥 Petropoulos A, Stavropoulou E, Tsigalou C, et al.
+              - generic [ref=e246]: •
+              - generic [ref=e247]: 📖 Nutrients
+              - generic [ref=e248]: •
+              - generic [ref=e249]: 📅 Sep 2025
+            - generic [ref=e250]:
+              - paragraph [ref=e251]:
+                - generic [ref=e252]: 📄
+                - text: Abstract
+              - paragraph [ref=e253]: ": Autism Spectrum Disorder (ASD) is a neurodevelopmental condition often accompanied by gastrointestinal (GI) symptoms and gut microbiota imbalances. The microbiota-gut-brain (MGB) axis is a bidirectional communication network linking gut microbes, the GI system, and the central nervous system (CNS). This narrative review explores the role of the MGB axis in ASD pathophysiology, focusing on communication pathways, neurodevelopmental implications, gut microbiota alteration, GI dysfunction, and em"
+            - link "Read Full Paper →" [ref=e255] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/41010510/
+          - article [ref=e256]:
+            - generic [ref=e258]: "PubMed ID: 40184961"
+            - 'link "Gut microbiome differences in children with Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder and effects of probiotic supplementation: A randomized controlled trial." [ref=e259] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40184961/
+            - generic [ref=e260]:
+              - generic [ref=e261]: 👥 Novau-Ferr&#xe9; N, Papandreou C, Rojo-Marticella M, et al.
+              - generic [ref=e262]: •
+              - generic [ref=e263]: 📖 Research in developmental disabilities
+              - generic [ref=e264]: •
+              - generic [ref=e265]: 📅 Jun 2025
+            - generic [ref=e266]:
+              - paragraph [ref=e267]:
+                - generic [ref=e268]: 📄
+                - text: Abstract
+              - paragraph [ref=e269]: Emerging evidence suggests a significant role of gut microbiota on neurodevelopmental disorders, including Attention Deficit Hyperactivity Disorder (ADHD) and Autism Spectrum Disorder (ASD). Our study aimed to compare gut microbiota composition between these disorders and evaluate the effect of probiotic supplementation. We conducted a 12-week randomized, double-blind, placebo-controlled trial with 80 children aged 5-14 years (39 with ADHD, 41 with ASD). Baseline and post-intervention fecal samp
+            - link "Read Full Paper →" [ref=e271] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40184961/
+          - article [ref=e272]:
+            - generic [ref=e274]: "PubMed ID: 40376856"
+            - link "Interventions targeting the gut microbiota and their possible effect on gastrointestinal and neurobehavioral symptoms in autism spectrum disorder." [ref=e275] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40376856/
+            - generic [ref=e276]:
+              - generic [ref=e277]: 👥 Takyi E, Nirmalkar K, Adams J, et al.
+              - generic [ref=e278]: •
+              - generic [ref=e279]: 📖 Gut microbes
+              - generic [ref=e280]: •
+              - generic [ref=e281]: 📅 Dec 2025
+            - generic [ref=e282]:
+              - paragraph [ref=e283]:
+                - generic [ref=e284]: 📄
+                - text: Abstract
+              - paragraph [ref=e285]: Autism spectrum disorder (ASD) is a developmental disorder that is characterized by deficits in social communication and restricted, repetitive, and stereotyped behaviors. In addition to neurobehavioral symptoms, children with ASD often have gastrointestinal symptoms (e.g. constipation, diarrhea, gas, abdominal pain, reflux). Several studies have proposed the role of gut microbiota and metabolic disorders in gastrointestinal symptoms and neurodevelopmental dysfunction in ASD patients; these resu
+            - link "Read Full Paper →" [ref=e287] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40376856/
+          - article [ref=e288]:
+            - generic [ref=e290]: "PubMed ID: 24315484"
+            - link "Microbiota modulate behavioral and physiological abnormalities associated with neurodevelopmental disorders." [ref=e291] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/24315484/
+            - generic [ref=e292]:
+              - generic [ref=e293]: 👥 Hsiao EY, McBride SW, Hsien S, et al.
+              - generic [ref=e294]: •
+              - generic [ref=e295]: 📖 Cell
+              - generic [ref=e296]: •
+              - generic [ref=e297]: 📅 Dec 2013
+            - generic [ref=e298]:
+              - paragraph [ref=e299]:
+                - generic [ref=e300]: 📄
+                - text: Abstract
+              - paragraph [ref=e301]: Neurodevelopmental disorders, including autism spectrum disorder (ASD), are defined by core behavioral impairments; however, subsets of individuals display a spectrum of gastrointestinal (GI) abnormalities. We demonstrate GI barrier defects and microbiota alterations in the maternal immune activation (MIA) mouse model that is known to display features of ASD. Oral treatment of MIA offspring with the human commensal Bacteroides fragilis corrects gut permeability, alters microbial composition, and
+            - link "Read Full Paper →" [ref=e303] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/24315484/
+          - article [ref=e304]:
+            - generic [ref=e306]: "PubMed ID: 26755882"
+            - link "Gut microbiota in autism and mood disorders." [ref=e307] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/26755882/
+            - generic [ref=e308]:
+              - generic [ref=e309]: 👥 Mangiola F, Ianiro G, Franceschi F, et al.
+              - generic [ref=e310]: •
+              - generic [ref=e311]: 📖 World journal of gastroenterology
+              - generic [ref=e312]: •
+              - generic [ref=e313]: 📅 Jan 2016
+            - generic [ref=e314]:
+              - paragraph [ref=e315]:
+                - generic [ref=e316]: 📄
+                - text: Abstract
+              - paragraph [ref=e317]: The hypothesis of an important role of gut microbiota in the maintenance of physiological state into the gastrointestinal (GI) system is supported by several studies that have shown a qualitative and quantitative alteration of the intestinal flora in a number of gastrointestinal and extra-gastrointestinal diseases. In the last few years, the importance of gut microbiota impairment in the etiopathogenesis of pathology such as autism, dementia and mood disorder, has been raised. The evidence of th
+            - link "Read Full Paper →" [ref=e319] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/26755882/
+          - article [ref=e320]:
+            - generic [ref=e322]: "PubMed ID: 30823414"
+            - link "Autism Spectrum Disorders and the Gut Microbiota." [ref=e323] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30823414/
+            - generic [ref=e324]:
+              - generic [ref=e325]: 👥 Fattorusso A, Di Genova L, Dell'Isola GB, et al.
+              - generic [ref=e326]: •
+              - generic [ref=e327]: 📖 Nutrients
+              - generic [ref=e328]: •
+              - generic [ref=e329]: 📅 Feb 2019
+            - generic [ref=e330]:
+              - paragraph [ref=e331]:
+                - generic [ref=e332]: 📄
+                - text: Abstract
+              - paragraph [ref=e333]: In recent years, there has been an emerging interest in the possible role of the gut microbiota as a co-factor in the development of autism spectrum disorders (ASDs), as many studies have highlighted the bidirectional communication between the gut and brain (the so-called "gut-brain axis"). Accumulating evidence has shown a link between alterations in the composition of the gut microbiota and both gastrointestinal and neurobehavioural symptoms in children with ASD. The aim of this narrative revi
+            - link "Read Full Paper →" [ref=e335] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30823414/
+          - article [ref=e336]:
+            - generic [ref=e338]: "PubMed ID: 30522820"
+            - link "Mechanisms Underlying Microbial-Mediated Changes in Social Behavior in Mouse Models of Autism Spectrum Disorder." [ref=e339] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30522820/
+            - generic [ref=e340]:
+              - generic [ref=e341]: 👥 Sgritta M, Dooling SW, Buffington SA, et al.
+              - generic [ref=e342]: •
+              - generic [ref=e343]: 📖 Neuron
+              - generic [ref=e344]: •
+              - generic [ref=e345]: 📅 Jan 2019
+            - generic [ref=e346]:
+              - paragraph [ref=e347]:
+                - generic [ref=e348]: 📄
+                - text: Abstract
+              - paragraph [ref=e349]: Currently, there are no medications that effectively treat the core symptoms of Autism Spectrum Disorder (ASD). We recently found that the bacterial species Lactobacillus (L.) reuteri reverses social deficits in maternal high-fat-diet offspring. However, whether the effect of L.&#xa0;reuteri on social behavior is generalizable to other ASD models and its mechanism(s) of action remains unknown. Here, we found that treatment with L.&#xa0;reuteri selectively rescues social deficits in genetic, envi
+            - link "Read Full Paper →" [ref=e351] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30522820/
+          - article [ref=e352]:
+            - generic [ref=e354]: "PubMed ID: 31035684"
+            - link "The Possible Role of the Microbiota-Gut-Brain-Axis in Autism Spectrum Disorder." [ref=e355] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31035684/
+            - generic [ref=e356]:
+              - generic [ref=e357]: 👥 Srikantha P, Mohajeri MH
+              - generic [ref=e358]: •
+              - generic [ref=e359]: 📖 International journal of molecular sciences
+              - generic [ref=e360]: •
+              - generic [ref=e361]: 📅 Apr 2019
+            - generic [ref=e362]:
+              - paragraph [ref=e363]:
+                - generic [ref=e364]: 📄
+                - text: Abstract
+              - paragraph [ref=e365]: New research points to a possible link between autism spectrum disorder (ASD) and the gut microbiota as many autistic children have co-occurring gastrointestinal problems. This review focuses on specific alterations of gut microbiota mostly observed in autistic patients. Particularly, the mechanisms through which such alterations may trigger the production of the bacterial metabolites, or leaky gut in autistic people are described. Various altered metabolite levels were observed in the blood and
+            - link "Read Full Paper →" [ref=e367] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31035684/
+          - article [ref=e368]:
+            - generic [ref=e370]: "PubMed ID: 33717063"
+            - 'link "Anti-Inflammatory and Immunomodulatory Effects of Probiotics in Gut Inflammation: A Door to the Body." [ref=e371] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/33717063/
+            - generic [ref=e372]:
+              - generic [ref=e373]: 👥 Cristofori F, Dargenio VN, Dargenio C, et al.
+              - generic [ref=e374]: •
+              - generic [ref=e375]: 📖 Frontiers in immunology
+              - generic [ref=e376]: •
+              - generic [ref=e377]: 📅 2021
+            - generic [ref=e378]:
+              - paragraph [ref=e379]:
+                - generic [ref=e380]: 📄
+                - text: Abstract
+              - paragraph [ref=e381]: Hosting&#xa0;millions of microorganisms, the digestive tract is the primary and most important part of bacterial colonization. On one side, in cases of opportunistic invasion, the abundant bacterial population inside intestinal tissues may face potential health problems such as inflammation and infections. Therefore, the immune system has evolved to sustain the host-microbiota symbiotic relationship. On the other hand, to maintain host immune homeostasis, the intestinal microflora often exerts a
+            - link "Read Full Paper →" [ref=e383] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/33717063/
+          - article [ref=e384]:
+            - generic [ref=e386]: "PubMed ID: 35163286"
+            - link "The Human Gut Microbiome as a Potential Factor in Autism Spectrum Disorder." [ref=e387] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/35163286/
+            - generic [ref=e388]:
+              - generic [ref=e389]: 👥 Alharthi A, Alhazmi S, Alburae N, et al.
+              - generic [ref=e390]: •
+              - generic [ref=e391]: 📖 International journal of molecular sciences
+              - generic [ref=e392]: •
+              - generic [ref=e393]: 📅 Jan 2022
+            - generic [ref=e394]:
+              - paragraph [ref=e395]:
+                - generic [ref=e396]: 📄
+                - text: Abstract
+              - paragraph [ref=e397]: The high prevalence of gastrointestinal (GI) disorders among autism spectrum disorder (ASD) patients has prompted scientists to look into the gut microbiota as a putative trigger in ASD pathogenesis. Thus, many studies have linked the gut microbial dysbiosis that is frequently observed in ASD patients with the modulation of brain function and social behavior, but little is known about this connection and its contribution to the etiology of ASD. This present review highlights the potential role o
+            - link "Read Full Paper →" [ref=e399] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/35163286/
+          - article [ref=e400]:
+            - generic [ref=e402]: "PubMed ID: 38542314"
+            - link "Mind, Mood and Microbiota-Gut-Brain Axis in Psychiatric Disorders." [ref=e403] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38542314/
+            - generic [ref=e404]:
+              - generic [ref=e405]: 👥 Toader C, Dobrin N, Costea D, et al.
+              - generic [ref=e406]: •
+              - generic [ref=e407]: 📖 International journal of molecular sciences
+              - generic [ref=e408]: •
+              - generic [ref=e409]: 📅 Mar 2024
+            - generic [ref=e410]:
+              - paragraph [ref=e411]:
+                - generic [ref=e412]: 📄
+                - text: Abstract
+              - paragraph [ref=e413]: Psychiatric disorders represent a primary source of disability worldwide, manifesting as disturbances in individuals' cognitive processes, emotional regulation, and behavioral patterns. In the quest to discover novel therapies and expand the boundaries of neuropharmacology, studies from the field have highlighted the gut microbiota's role in modulating these disorders. These alterations may influence the brain's processes through the brain-gut axis, a multifaceted bidirectional system that estab
+            - link "Read Full Paper →" [ref=e415] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38542314/
+          - article [ref=e416]:
+            - generic [ref=e418]: "PubMed ID: 28222761"
+            - link "New evidences on the altered gut microbiota in autism spectrum disorders." [ref=e419] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28222761/
+            - generic [ref=e420]:
+              - generic [ref=e421]: 👥 Strati F, Cavalieri D, Albanese D, et al.
+              - generic [ref=e422]: •
+              - generic [ref=e423]: 📖 Microbiome
+              - generic [ref=e424]: •
+              - generic [ref=e425]: 📅 Feb 2017
+            - generic [ref=e426]:
+              - paragraph [ref=e427]:
+                - generic [ref=e428]: 📄
+                - text: Abstract
+              - paragraph [ref=e429]: Autism spectrum disorders (ASDs) are neurodevelopmental conditions characterized by social and behavioural impairments. In addition to neurological symptoms, ASD subjects frequently suffer from gastrointestinal abnormalities, thus implying a role of the gut microbiota in ASD gastrointestinal pathophysiology. Here, we characterized the bacterial and fungal gut microbiota in a cohort of autistic individuals demonstrating the presence of an altered microbial community structure. A fraction of 90% o
+            - link "Read Full Paper →" [ref=e431] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/28222761/
+          - article [ref=e432]:
+            - generic [ref=e434]: "PubMed ID: 39632378"
+            - 'link "Omic characterizing and targeting gut dysbiosis in children with autism spectrum disorder: symptom alleviation through combined probiotic and medium-carbohydrate diet intervention - a pilot study." [ref=e435] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39632378/
+            - generic [ref=e436]:
+              - generic [ref=e437]: 👥 Li Y, Hu W, Lin B, et al.
+              - generic [ref=e438]: •
+              - generic [ref=e439]: 📖 Gut microbes
+              - generic [ref=e440]: •
+              - generic [ref=e441]: 📅 2024
+            - generic [ref=e442]:
+              - paragraph [ref=e443]:
+                - generic [ref=e444]: 📄
+                - text: Abstract
+              - paragraph [ref=e445]: Autism spectrum disorder (ASD) currently lacks effective diagnostic and therapeutic approaches. Disruptions in the gut ecosystem have been observed in individuals with ASD, suggesting that targeting gut microbiota through probiotic and dietary supplementation may serve as a potential treatment strategy. This two-phase study aimed to characterize the fecal metagenome of children with ASD and investigate the beneficial effects of a combined probiotic and medium-carbohydrate intervention in ASD. Fe
+            - link "Read Full Paper →" [ref=e447] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39632378/
+          - article [ref=e448]:
+            - generic [ref=e450]: "PubMed ID: 40645945"
+            - link "Gut microbiota and brain-resident CD4T cells shape behavioral outcomes in autism spectrum disorder." [ref=e451] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40645945/
+            - generic [ref=e452]:
+              - generic [ref=e453]: 👥 Park JC, Sim MA, Lee C, et al.
+              - generic [ref=e454]: •
+              - generic [ref=e455]: 📖 Nature communications
+              - generic [ref=e456]: •
+              - generic [ref=e457]: 📅 Jul 2025
+            - generic [ref=e458]:
+              - paragraph [ref=e459]:
+                - generic [ref=e460]: 📄
+                - text: Abstract
+              - paragraph [ref=e461]: Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by alterations in social, repetitive, and anxiety-like behaviors. While emerging evidence suggest a gut-brain etiology in ASD, the underlying mechanisms remain unclear. To dissect this axis, we developed a germ-free BTBR mouse model for ASD. The absence of gut microbiota in male mice ameliorates ASD-associated behaviors and reduces populations of inflammatory brain-resident T cells. Additionally, CD4T cell depletion mi
+            - link "Read Full Paper →" [ref=e463] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40645945/
+          - article [ref=e464]:
+            - generic [ref=e466]: "PubMed ID: 38068995"
+            - 'link "Microbiota in Autism Spectrum Disorder: A Systematic Review." [ref=e467] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38068995/
+            - generic [ref=e468]:
+              - generic [ref=e469]: 👥 Lewandowska-Pietruszka Z, Figlerowicz M, Mazur-Melewska K
+              - generic [ref=e470]: •
+              - generic [ref=e471]: 📖 International journal of molecular sciences
+              - generic [ref=e472]: •
+              - generic [ref=e473]: 📅 Nov 2023
+            - generic [ref=e474]:
+              - paragraph [ref=e475]:
+                - generic [ref=e476]: 📄
+                - text: Abstract
+              - paragraph [ref=e477]: "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition characterized by several core symptoms: restricted interests, communication difficulties, and impaired social interactions. Many ASD children experience gastrointestinal functional disorders, impacting their well-being. Emerging evidence suggests that a gut microbiota imbalance may exacerbate core and gastrointestinal symptoms. Our review assesses the gut microbiota in children with ASD and interventions targeting microbiot"
+            - link "Read Full Paper →" [ref=e479] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38068995/
+          - article [ref=e480]:
+            - generic [ref=e482]: "PubMed ID: 38732043"
+            - 'link "Nutraceuticals in Psychiatric Disorders: A Systematic Review." [ref=e483] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38732043/
+            - generic [ref=e484]:
+              - generic [ref=e485]: 👥 Bozzatello P, Novelli R, Montemagni C, et al.
+              - generic [ref=e486]: •
+              - generic [ref=e487]: 📖 International journal of molecular sciences
+              - generic [ref=e488]: •
+              - generic [ref=e489]: 📅 Apr 2024
+            - generic [ref=e490]:
+              - paragraph [ref=e491]:
+                - generic [ref=e492]: 📄
+                - text: Abstract
+              - paragraph [ref=e493]: Correct nutrition and diet are directly correlated with mental health, functions of the immune system, and gut microbiota composition. Diets with a high content of some nutrients, such as fibers, phytochemicals, and short-chain fatty acids (omega-3 fatty acids), seem to have an anti-inflammatory and protective action on the nervous system. Among nutraceuticals, supplementation of probiotics and omega-3 fatty acids plays a role in improving symptoms of several mental disorders. In this review, we
+            - link "Read Full Paper →" [ref=e495] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38732043/
+          - article [ref=e496]:
+            - generic [ref=e498]: "PubMed ID: 30967657"
+            - link "Long-term benefit of Microbiota Transfer Therapy on autism symptoms and gut microbiota." [ref=e499] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30967657/
+            - generic [ref=e500]:
+              - generic [ref=e501]: 👥 Kang DW, Adams JB, Coleman DM, et al.
+              - generic [ref=e502]: •
+              - generic [ref=e503]: 📖 Scientific reports
+              - generic [ref=e504]: •
+              - generic [ref=e505]: 📅 Apr 2019
+            - generic [ref=e506]:
+              - paragraph [ref=e507]:
+                - generic [ref=e508]: 📄
+                - text: Abstract
+              - paragraph [ref=e509]: Many studies have reported abnormal gut microbiota in individuals with Autism Spectrum Disorders (ASD), suggesting a link between gut microbiome and autism-like behaviors. Modifying the gut microbiome is a potential route to improve gastrointestinal (GI) and behavioral symptoms in children with ASD, and fecal microbiota transplant could transform the dysbiotic gut microbiome toward a healthy one by delivering a large number of commensal microbes from a healthy donor. We previously performed an o
+            - link "Read Full Paper →" [ref=e511] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30967657/
+          - article [ref=e512]:
+            - generic [ref=e514]: "PubMed ID: 27315483"
+            - link "Microbial Reconstitution Reverses Maternal Diet-Induced Social and Synaptic Deficits in Offspring." [ref=e515] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27315483/
+            - generic [ref=e516]:
+              - generic [ref=e517]: 👥 Buffington SA, Di Prisco GV, Auchtung TA, et al.
+              - generic [ref=e518]: •
+              - generic [ref=e519]: 📖 Cell
+              - generic [ref=e520]: •
+              - generic [ref=e521]: 📅 Jun 2016
+            - generic [ref=e522]:
+              - paragraph [ref=e523]:
+                - generic [ref=e524]: 📄
+                - text: Abstract
+              - paragraph [ref=e525]: Maternal obesity during pregnancy has been associated with increased risk of neurodevelopmental disorders, including autism spectrum disorder (ASD), in offspring. Here, we report that maternal high-fat diet (MHFD) induces a shift in microbial ecology that negatively impacts offspring social behavior. Social deficits and gut microbiota dysbiosis in MHFD offspring are prevented by co-housing with offspring of mothers on a regular diet (MRD) and transferable to germ-free mice. In addition, social i
+            - link "Read Full Paper →" [ref=e527] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27315483/
+          - article [ref=e528]:
+            - generic [ref=e530]: "PubMed ID: 39265200"
+            - 'link "Probiotics for autism spectrum disorder: An updated systematic review and meta-analysis of effects on symptoms." [ref=e531] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39265200/
+            - generic [ref=e532]:
+              - generic [ref=e533]: 👥 Soleimanpour S, Abavisani M, Khoshrou A, et al.
+              - generic [ref=e534]: •
+              - generic [ref=e535]: 📖 Journal of psychiatric research
+              - generic [ref=e536]: •
+              - generic [ref=e537]: 📅 Nov 2024
+            - generic [ref=e538]:
+              - paragraph [ref=e539]:
+                - generic [ref=e540]: 📄
+                - text: Abstract
+              - paragraph [ref=e541]: Recent researches highlighted the significant role of the gut-brain axis and gut microbiota in autism spectrum disorder (ASD), a neurobehavioral developmental disorder characterized by a variety of neuropsychiatric and gastrointestinal symptoms, suggesting that alterations in the gut microbiota may correlate with the severity of ASD symptoms. Therefore, this study was designed to conduct a comprehensive systematic review and meta-analysis of the effectiveness of probiotic interventions in amelio
+            - link "Read Full Paper →" [ref=e543] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39265200/
+          - article [ref=e544]:
+            - generic [ref=e546]: "PubMed ID: 34062986"
+            - 'link "Probiotic and Oxytocin Combination Therapy in Patients with Autism Spectrum Disorder: A Randomized, Double-Blinded, Placebo-Controlled Pilot Trial." [ref=e547] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34062986/
+            - generic [ref=e548]:
+              - generic [ref=e549]: 👥 Kong XJ, Liu J, Liu K, et al.
+              - generic [ref=e550]: •
+              - generic [ref=e551]: 📖 Nutrients
+              - generic [ref=e552]: •
+              - generic [ref=e553]: 📅 May 2021
+            - generic [ref=e554]:
+              - paragraph [ref=e555]:
+                - generic [ref=e556]: 📄
+                - text: Abstract
+              - paragraph [ref=e557]: Autism spectrum disorder (ASD) is a rapidly growing neurodevelopmental disorder. Both probiotics and oxytocin were reported to have therapeutic potential; however, the combination therapy has not yet been studied. We conducted a randomized, double-blinded, placebo-controlled, 2-stage pilot trial in 35 individuals with ASD aged 3-20 years (median = 10.30 years). Subjects were randomly assigned to receive dailyPS128 probiotic (6 &#xd7; 10CFUs) or a placebo for 28 weeks; starting on week 16, both g
+            - link "Read Full Paper →" [ref=e559] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34062986/
+          - article [ref=e560]:
+            - generic [ref=e562]: "PubMed ID: 29984672"
+            - link "Overview of the Recent Advances in Pathophysiology and Treatment for Autism." [ref=e563] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29984672/
+            - generic [ref=e564]:
+              - generic [ref=e565]: 👥 Famitafreshi H, Karimian M
+              - generic [ref=e566]: •
+              - generic [ref=e567]: 📖 CNS & neurological disorders drug targets
+              - generic [ref=e568]: •
+              - generic [ref=e569]: 📅 2018
+            - generic [ref=e570]:
+              - paragraph [ref=e571]:
+                - generic [ref=e572]: 📄
+                - text: Abstract
+              - paragraph [ref=e573]: Autism is a developmental disorder that manifests itself in early childhood. Autism is characterized by inability to acquire social skills, repetitive behaviors and failure of speech and nonverbal communication development. Recent studies have shown that genetic mutations occur in majority of individuals with autism. These mutations cause a variety of disorders that ultimately lead to brain disorders. It is noteworthy that all mutations do not follow the same pattern. They encompass various kind
+            - link "Read Full Paper →" [ref=e575] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29984672/
+          - article [ref=e576]:
+            - generic [ref=e578]: "PubMed ID: 40218893"
+            - link "The Gut-Brain-Microbiota Connection and Its Role in Autism Spectrum Disorders." [ref=e579] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40218893/
+            - generic [ref=e580]:
+              - generic [ref=e581]: 👥 M&#x142;ynarska E, Barszcz E, Budny E, et al.
+              - generic [ref=e582]: •
+              - generic [ref=e583]: 📖 Nutrients
+              - generic [ref=e584]: •
+              - generic [ref=e585]: 📅 Mar 2025
+            - generic [ref=e586]:
+              - paragraph [ref=e587]:
+                - generic [ref=e588]: 📄
+                - text: Abstract
+              - paragraph [ref=e589]: Autism spectrum disorder (ASD) is a group of complex neurodevelopmental conditions with a heterogeneous and multifactorial etiology that is not yet fully understood. Among the various factors that may contribute to ASD development, alterations in the gut microbiota have been increasingly recognized. Microorganisms in the gastrointestinal tract play a crucial role in the gut-brain axis (GBA), affecting nervous system development and behavior. Dysbiosis, or an imbalance in the microbiota, has been
+            - link "Read Full Paper →" [ref=e591] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/40218893/
+          - article [ref=e592]:
+            - generic [ref=e594]: "PubMed ID: 34492236"
+            - 'link "Probiotics: Potential novel therapeutics for microbiota-gut-brain axis dysfunction across gender and lifespan." [ref=e595] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34492236/
+            - generic [ref=e596]:
+              - generic [ref=e597]: 👥 Snigdha S, Ha K, Tsai P, et al.
+              - generic [ref=e598]: •
+              - generic [ref=e599]: 📖 Pharmacology & therapeutics
+              - generic [ref=e600]: •
+              - generic [ref=e601]: 📅 Mar 2022
+            - generic [ref=e602]:
+              - paragraph [ref=e603]:
+                - generic [ref=e604]: 📄
+                - text: Abstract
+              - paragraph [ref=e605]: Probiotics are live microorganisms, which when administered in adequate amounts, present a health benefit for the host. While the beneficial effects of probiotics on gastrointestinal function are generally well recognized, new animal research and clinical studies have found that alterations in gut microbial communities can have a broad range of effects throughout the body. Non-intestinal sites impacted include the immune, endocrine, cardiovascular and the central nervous system (CNS). In particu
+            - link "Read Full Paper →" [ref=e607] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34492236/
+          - article [ref=e608]:
+            - generic [ref=e610]: "PubMed ID: 38113884"
+            - 'link "Precision microbial intervention improves social behavior but not autism severity: A pilot double-blind randomized placebo-controlled trial." [ref=e611] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38113884/
+            - generic [ref=e612]:
+              - generic [ref=e613]: 👥 Mazzone L, Dooling SW, Volpe E, et al.
+              - generic [ref=e614]: •
+              - generic [ref=e615]: 📖 Cell host & microbe
+              - generic [ref=e616]: •
+              - generic [ref=e617]: 📅 Jan 2024
+            - generic [ref=e618]:
+              - paragraph [ref=e619]:
+                - generic [ref=e620]: 📄
+                - text: Abstract
+              - paragraph [ref=e621]: Autism spectrum disorder (ASD) is characterized by the presence of restricted/repetitive behaviors and social communication deficits. Because effective treatments for ASD remain elusive, novel therapeutic strategies are necessary. Preclinical studies show that L.&#xa0;reuteri selectively reversed social deficits in several models for ASD. Here, in a double-blind, randomized, placebo-controlled trial, we tested the effect of L.&#xa0;reuteri (a product containing a combination of strains ATCC-PTA-
+            - link "Read Full Paper →" [ref=e623] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38113884/
+          - article [ref=e624]:
+            - generic [ref=e626]: "PubMed ID: 37554355"
+            - 'link "Psychobiotics and fecal microbial transplantation for autism and attention-deficit/hyperactivity disorder: microbiome modulation and therapeutic mechanisms." [ref=e627] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37554355/
+            - generic [ref=e628]:
+              - generic [ref=e629]: 👥 Kwak MJ, Kim SH, Kim HH, et al.
+              - generic [ref=e630]: •
+              - generic [ref=e631]: 📖 Frontiers in cellular and infection microbiology
+              - generic [ref=e632]: •
+              - generic [ref=e633]: 📅 2023
+            - generic [ref=e634]:
+              - paragraph [ref=e635]:
+                - generic [ref=e636]: 📄
+                - text: Abstract
+              - paragraph [ref=e637]: "Dysbiosis of the gut microbiome is thought to be the developmental origins of the host's health and disease through the microbiota-gut-brain (MGB) axis: such as immune-mediated, metabolic, neurodegenerative, and neurodevelopmental diseases. Autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) are common neurodevelopmental disorders, and growing evidence indicates the contribution of the gut microbiome changes and imbalances to these conditions, pointing to the impor"
+            - link "Read Full Paper →" [ref=e639] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37554355/
+          - article [ref=e640]:
+            - generic [ref=e642]: "PubMed ID: 36986145"
+            - 'link "Effects of Probiotics on Autism Spectrum Disorder in Children: A Systematic Review and Meta-Analysis of Clinical Trials." [ref=e643] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/36986145/
+            - generic [ref=e644]:
+              - generic [ref=e645]: 👥 He X, Liu W, Tang F, et al.
+              - generic [ref=e646]: •
+              - generic [ref=e647]: 📖 Nutrients
+              - generic [ref=e648]: •
+              - generic [ref=e649]: 📅 Mar 2023
+            - generic [ref=e650]:
+              - paragraph [ref=e651]:
+                - generic [ref=e652]: 📄
+                - text: Abstract
+              - paragraph [ref=e653]: Many studies have explored the efficacy of probiotics on autism spectrum disorder (ASD) in children, but there is no consensus on the curative effect. This systematic review and meta-analysis aimed to comprehensively investigate whether probiotics could improve behavioral symptoms in children with ASD. A systematic database search was conducted and a total of seven studies were included in the meta-analysis. We found a nonsignificant overall effect size of probiotics on behavioral symptoms in ch
+            - link "Read Full Paper →" [ref=e655] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/36986145/
+          - article [ref=e656]:
+            - generic [ref=e658]: "PubMed ID: 32819434"
+            - link "The gut microbiota regulates autism-like behavior by mediating vitamin Bhomeostasis in EphB6-deficient mice." [ref=e659] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32819434/
+            - generic [ref=e660]:
+              - generic [ref=e661]: 👥 Li Y, Luo ZY, Hu YY, et al.
+              - generic [ref=e662]: •
+              - generic [ref=e663]: 📖 Microbiome
+              - generic [ref=e664]: •
+              - generic [ref=e665]: 📅 Aug 2020
+            - generic [ref=e666]:
+              - paragraph [ref=e667]:
+                - generic [ref=e668]: 📄
+                - text: Abstract
+              - paragraph [ref=e669]: Autism spectrum disorder (ASD) is a developmental disorder, and the effective pharmacological treatments for the core autistic symptoms are currently limited. Increasing evidence, particularly that from clinical studies on ASD patients, suggests a functional link between the gut microbiota and the development of ASD. However, the mechanisms linking the gut microbiota with brain dysfunctions (gut-brain axis) in ASD have not yet been full elucidated. Due to its genetic mutations and downregulated
+            - link "Read Full Paper →" [ref=e671] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/32819434/
+          - article [ref=e672]:
+            - generic [ref=e674]: "PubMed ID: 29171095"
+            - 'link "The Gastrointestinal Microbiome: A Review." [ref=e675] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29171095/
+            - generic [ref=e676]:
+              - generic [ref=e677]: 👥 Barko PC, McMichael MA, Swanson KS, et al.
+              - generic [ref=e678]: •
+              - generic [ref=e679]: 📖 Journal of veterinary internal medicine
+              - generic [ref=e680]: •
+              - generic [ref=e681]: 📅 Jan 2018
+            - generic [ref=e682]:
+              - paragraph [ref=e683]:
+                - generic [ref=e684]: 📄
+                - text: Abstract
+              - paragraph [ref=e685]: The gastrointestinal microbiome is a diverse consortium of bacteria, archaea, fungi, protozoa, and viruses that inhabit the gut of all mammals. Studies in humans and other mammals have implicated the microbiome in a range of physiologic processes that are vital to host health including energy homeostasis, metabolism, gut epithelial health, immunologic activity, and neurobehavioral development. The microbial genome confers metabolic capabilities exceeding those of the host organism alone, making
+            - link "Read Full Paper →" [ref=e687] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/29171095/
+          - article [ref=e688]:
+            - generic [ref=e690]: "PubMed ID: 24956966"
+            - 'link "Microbiota and neurodevelopmental windows: implications for brain disorders." [ref=e691] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/24956966/
+            - generic [ref=e692]:
+              - generic [ref=e693]: 👥 Borre YE, O'Keeffe GW, Clarke G, et al.
+              - generic [ref=e694]: •
+              - generic [ref=e695]: 📖 Trends in molecular medicine
+              - generic [ref=e696]: •
+              - generic [ref=e697]: 📅 Sep 2014
+            - generic [ref=e698]:
+              - paragraph [ref=e699]:
+                - generic [ref=e700]: 📄
+                - text: Abstract
+              - paragraph [ref=e701]: Gut microbiota is essential to human health, playing a major role in the bidirectional communication between the gastrointestinal tract and the central nervous system. The microbiota undergoes a vigorous process of development throughout the lifespan and establishes its symbiotic rapport with the host early in life. Early life perturbations of the developing gut microbiota can impact neurodevelopment and potentially lead to adverse mental health outcomes later in life. This review compares the p
+            - link "Read Full Paper →" [ref=e703] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/24956966/
+          - article [ref=e704]:
+            - generic [ref=e706]: "PubMed ID: 39798036"
+            - 'link "Effect of Probiotics on the Symptomatology of Autism Spectrum Disorder and/or Attention Deficit/Hyperactivity Disorder in Children and Adolescents: Pilot Study." [ref=e707] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39798036/
+            - generic [ref=e708]:
+              - generic [ref=e709]: 👥 Rojo-Marticella M, Arija V, Canals-Sans J
+              - generic [ref=e710]: •
+              - generic [ref=e711]: 📖 Research on child and adolescent psychopathology
+              - generic [ref=e712]: •
+              - generic [ref=e713]: 📅 Feb 2025
+            - generic [ref=e714]:
+              - paragraph [ref=e715]:
+                - generic [ref=e716]: 📄
+                - text: Abstract
+              - paragraph [ref=e717]: The aim of this study is to investigate the impact of using probiotics with strains related to dopamine and gamma-aminobutyric acid production on clinical features of autism spectrum disorder (ASD) and/or attention deficit/hyperactivity disorder (ADHD). This randomized, controlled trial involved 38 children with ADHD and 42 children with ASD, aged 5-16&#xa0;years, who received probiotics (Lactiplantibacillus plantarum and Levilactobacillus brevis 109/cfu/daily) or placebo for 12&#xa0;weeks. Pare
+            - link "Read Full Paper →" [ref=e719] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/39798036/
+          - article [ref=e720]:
+            - generic [ref=e722]: "PubMed ID: 30625189"
+            - link "Pilot study of probiotic/colostrum supplementation on gut function in children with autism and gastrointestinal symptoms." [ref=e723] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30625189/
+            - generic [ref=e724]:
+              - generic [ref=e725]: 👥 Sanctuary MR, Kain JN, Chen SY, et al.
+              - generic [ref=e726]: •
+              - generic [ref=e727]: 📖 PloS one
+              - generic [ref=e728]: •
+              - generic [ref=e729]: 📅 2019
+            - generic [ref=e730]:
+              - paragraph [ref=e731]:
+                - generic [ref=e732]: 📄
+                - text: Abstract
+              - paragraph [ref=e733]: Over half of all children with autism spectrum disorders (ASD) have gastrointestinal (GI) co-morbidities including chronic constipation, diarrhea, and irritable bowel syndrome. The severity of these symptoms has been correlated with the degree of GI microbial dysbiosis. The study objective was to assess tolerability of a probiotic (Bifidobacterium infantis) in combination with a bovine colostrum product (BCP) as a source of prebiotic oligosaccharides and to evaluate GI, microbiome and immune fac
+            - link "Read Full Paper →" [ref=e735] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/30625189/
+          - article [ref=e736]:
+            - generic [ref=e738]: "PubMed ID: 37868345"
+            - link "Review of microbiota gut brain axis and innate immunity in inflammatory and infective diseases." [ref=e739] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37868345/
+            - generic [ref=e740]:
+              - generic [ref=e741]: 👥 Yuan C, He Y, Xie K, et al.
+              - generic [ref=e742]: •
+              - generic [ref=e743]: 📖 Frontiers in cellular and infection microbiology
+              - generic [ref=e744]: •
+              - generic [ref=e745]: 📅 2023
+            - generic [ref=e746]:
+              - paragraph [ref=e747]:
+                - generic [ref=e748]: 📄
+                - text: Abstract
+              - paragraph [ref=e749]: The microbiota gut brain (MGB) axis has been shown to play a significant role in the regulation of inflammatory and infective diseases. Exploring the structure and communication mode of MGB axis is crucial for understanding its role in diseases, and studying the signaling pathways and regulatory methods of MGB axis regulation in diseases is also of profound significance for future clinical research. This article reviews the composition, communication mechanism of MGB axis and its role in inflamm
+            - link "Read Full Paper →" [ref=e751] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/37868345/
+          - article [ref=e752]:
+            - generic [ref=e754]: "PubMed ID: 27260271"
+            - 'link "Gut to brain interaction in Autism Spectrum Disorders: a randomized controlled trial on the role of probiotics on clinical, biochemical and neurophysiological parameters." [ref=e755] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27260271/
+            - generic [ref=e756]:
+              - generic [ref=e757]: 👥 Santocchi E, Guiducci L, Fulceri F, et al.
+              - generic [ref=e758]: •
+              - generic [ref=e759]: 📖 BMC psychiatry
+              - generic [ref=e760]: •
+              - generic [ref=e761]: 📅 Jun 2016
+            - generic [ref=e762]:
+              - paragraph [ref=e763]:
+                - generic [ref=e764]: 📄
+                - text: Abstract
+              - paragraph [ref=e765]: A high prevalence of a variety of gastrointestinal (GI) symptoms is frequently reported in patients with Autism Spectrum Disorders (ASD). The GI disturbances in ASD might be linked to gut dysbiosis representing the observable phenotype of a "gut-brain axis" disruption. The exploitation of strategies which can restore normal gut microbiota and reduce the gut production and absorption of toxins, such as probiotics addition/supplementation in a diet, may represent a non-pharmacological option in th
+            - link "Read Full Paper →" [ref=e767] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/27260271/
+          - article [ref=e768]:
+            - generic [ref=e770]: "PubMed ID: 38999736"
+            - 'link "Modulation of Gut Microbiome and Autism Symptoms of ASD Children Supplemented with Biological Response Modifier: A Randomized, Double-Blinded, Placebo-Controlled Pilot Study." [ref=e771] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38999736/
+            - generic [ref=e772]:
+              - generic [ref=e773]: 👥 Hrnciarova J, Kubelkova K, Bostik V, et al.
+              - generic [ref=e774]: •
+              - generic [ref=e775]: 📖 Nutrients
+              - generic [ref=e776]: •
+              - generic [ref=e777]: 📅 Jun 2024
+            - generic [ref=e778]:
+              - paragraph [ref=e779]:
+                - generic [ref=e780]: 📄
+                - text: Abstract
+              - paragraph [ref=e781]: The etiology and mechanisms of autism and autism spectrum disorder (ASD) are not yet fully understood. There is currently no treatment for ASD for providing significant improvement in core symptoms. Recent studies suggest, however, that ASD is associated with gut dysbiosis, indicating that modulation of gut microbiota in children with ASD may thus reduce the manifestation of ASD symptoms. The aim of this pilot study (prospective randomized, double-blinded, placebo-controlled) was to evaluate eff
+            - link "Read Full Paper →" [ref=e783] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38999736/
+          - article [ref=e784]:
+            - generic [ref=e786]: "PubMed ID: 34737978"
+            - link "Fecal Microbiota Transplantation Relieves Gastrointestinal and Autism Symptoms by Improving the Gut Microbiota in an Open-Label Study." [ref=e787] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34737978/
+            - generic [ref=e788]:
+              - generic [ref=e789]: 👥 Li N, Chen H, Cheng Y, et al.
+              - generic [ref=e790]: •
+              - generic [ref=e791]: 📖 Frontiers in cellular and infection microbiology
+              - generic [ref=e792]: •
+              - generic [ref=e793]: 📅 2021
+            - generic [ref=e794]:
+              - paragraph [ref=e795]:
+                - generic [ref=e796]: 📄
+                - text: Abstract
+              - paragraph [ref=e797]: Autism spectrum disorder (ASD) is a severe brain development disorder that is characterized by deficits in social communication and restricted, repetitive and stereotyped behaviors. Accumulating evidence has suggested that gut microbiota disorders play important roles in gastrointestinal symptoms and neurodevelopmental dysfunction in ASD patients. Manipulation of the gut microbiota by fecal microbiota transplantation (FMT) was recently shown to be a promising therapy for the treatment of various
+            - link "Read Full Paper →" [ref=e799] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/34737978/
+          - article [ref=e800]:
+            - generic [ref=e802]: "PubMed ID: 38978509"
+            - 'link "Human intestinal microbiome: Role in health and disease." [ref=e803] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38978509/
+            - generic [ref=e804]:
+              - generic [ref=e805]: 👥 Cant&#xf3;n R, De Lucas Ramos P, Garc&#xed;a-Botella A, et al.
+              - generic [ref=e806]: •
+              - generic [ref=e807]: "📖 Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia"
+              - generic [ref=e808]: •
+              - generic [ref=e809]: 📅 Dec 2024
+            - generic [ref=e810]:
+              - paragraph [ref=e811]:
+                - generic [ref=e812]: 📄
+                - text: Abstract
+              - paragraph [ref=e813]: The study of the microbiota and the microbiome, and specifically the intestinal one, has determined great interest due to the possible association of their alterations with numerous diseases. These include entities as diverse as Crohn's disease, autism, diabetes, cancer or situations as prevalent today as obesity. In view of this situation, different recommendations have been performed regarding the use of probiotics, prebiotics, and postbiotics as modulators of the microbiota and the microbiome
+            - link "Read Full Paper →" [ref=e815] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/38978509/
+          - article [ref=e816]:
+            - generic [ref=e818]: "PubMed ID: 31478755"
+            - 'link "Probiotics for Gastrointestinal Symptoms and Quality of Life in Autism: A Placebo-Controlled Pilot Trial." [ref=e819] [cursor=pointer]':
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31478755/
+            - generic [ref=e820]:
+              - generic [ref=e821]: 👥 Arnold LE, Luna RA, Williams K, et al.
+              - generic [ref=e822]: •
+              - generic [ref=e823]: 📖 Journal of child and adolescent psychopharmacology
+              - generic [ref=e824]: •
+              - generic [ref=e825]: 📅 Nov 2019
+            - generic [ref=e826]:
+              - paragraph [ref=e827]:
+                - generic [ref=e828]: 📄
+                - text: Abstract
+              - paragraph [ref=e829]: A randomized pilot trial of gastrointestinal (GI) symptoms targeting probiotic for quality of life in autism spectrum disorder (ASD).Thirteen children, 3-12 years of age with ASD, anxiety, and GI symptoms, were randomized into a probiotic crossover trial of 8 weeks each on VISBIOME and placebo separated by a 3-week washout. VISBIOME contains eight probiotic species, mostlyand. Primary outcome was the Pediatric Quality of Life Inventory (PedsQL) GI module. Secondary outcomes included gut microbio
+            - link "Read Full Paper →" [ref=e831] [cursor=pointer]:
+              - /url: https://pubmed.ncbi.nlm.nih.gov/31478755/
+  - generic [ref=e835]:
+    - generic [ref=e836]:
+      - generic [ref=e837]: 📰
+      - generic [ref=e838]:
+        - heading "Stay Updated on Autism Research" [level=3] [ref=e839]
+        - paragraph [ref=e840]: Get the latest news, breakthroughs, and resources.
+    - generic [ref=e841]:
+      - textbox "Enter your email" [ref=e842]
+      - button "Subscribe" [ref=e843]
+    - button "Close" [ref=e844]: ×
+  - contentinfo [ref=e845]:
+    - generic [ref=e846]:
+      - generic [ref=e847]:
+        - generic [ref=e848]:
+          - heading "Maryland Autism Hub" [level=3] [ref=e849]
+          - paragraph [ref=e850]: Evidence-based autism services, research, and news for Maryland families.
+        - generic [ref=e851]:
+          - heading "Quick Links" [level=3] [ref=e852]
+          - list [ref=e853]:
+            - listitem [ref=e854]:
+              - link "Provider Directory" [ref=e855] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e856]:
+              - link "Research Search" [ref=e857] [cursor=pointer]:
+                - /url: /research
+            - listitem [ref=e858]:
+              - link "Latest News" [ref=e859] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e860]:
+              - link "Organizations" [ref=e861] [cursor=pointer]:
+                - /url: /organizations
+            - listitem [ref=e862]:
+              - link "AI Therapy Recommendations" [ref=e863] [cursor=pointer]:
+                - /url: /ai-recommendations
+        - generic [ref=e864]:
+          - heading "Resources" [level=3] [ref=e865]
+          - list [ref=e866]:
+            - listitem [ref=e867]:
+              - link "Submit Your Practice" [ref=e868] [cursor=pointer]:
+                - /url: https://forms.gle/gbrgKGSuAPfFPTSK9
+            - listitem [ref=e869]:
+              - link "Kennedy Krieger Institute" [ref=e870] [cursor=pointer]:
+                - /url: https://www.kennedykrieger.org
+            - listitem [ref=e871]:
+              - link "Autism Speaks" [ref=e872] [cursor=pointer]:
+                - /url: https://www.autismspeaks.org
+        - generic [ref=e873]:
+          - heading "Support This Resource" [level=3] [ref=e874]
+          - paragraph [ref=e875]: Help us keep this resource 100% free for Maryland families.
+          - link "☕ Buy Me a Coffee" [ref=e876] [cursor=pointer]:
+            - /url: https://buymeacoffee.com/arthurpheda
+      - generic [ref=e878]:
+        - heading "⚕️ Medical Disclaimer" [level=4] [ref=e879]:
+          - generic [ref=e880]: ⚕️
+          - text: Medical Disclaimer
+        - paragraph [ref=e881]:
+          - strong [ref=e882]: This is NOT medical advice.
+          - text: The information provided on this website is for educational and informational purposes only. It should not be construed as medical advice, diagnosis, or treatment recommendations.
+        - paragraph [ref=e883]:
+          - strong [ref=e884]: Always consult with a qualified healthcare provider
+          - text: before starting, stopping, or changing any treatment, therapy, medication, or intervention for autism or any other medical condition. The information on this site does not replace professional medical judgment.
+        - paragraph [ref=e885]:
+          - strong [ref=e886]: Evidence levels vary.
+          - text: Treatments listed as "investigational" have emerging but not yet conclusive evidence. Treatments in the "avoid" category have been identified as dangerous or fraudulent. Provider listings do not constitute endorsements.
+        - paragraph [ref=e887]:
+          - strong [ref=e888]: AI recommendations are not prescriptive.
+          - text: Our AI therapy suggestion tool uses published research to generate educational recommendations only. These are NOT treatment plans. Every child is unique - work with your medical team to develop an appropriate individualized plan.
+      - generic [ref=e889]:
+        - paragraph [ref=e890]: © 2026 Maryland Autism Hub. For educational purposes only. Not medical advice.
+        - paragraph [ref=e891]: Always consult with qualified healthcare professionals before starting any treatment.
+  - button "Open Next.js Dev Tools" [ref=e897] [cursor=pointer]:
+    - img [ref=e898]
+  - alert [ref=e901]
+```

@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "← Back to Home" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - heading "🔬 International Autism Research" [level=1] [ref=e6]
+      - paragraph [ref=e7]: Search PubMed's global database of medical research
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - 'textbox "Search: microbiome, HBOT, MMR vaccine, stem cell..." [ref=e11]': microbiome
+          - button "Search" [ref=e12]
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: "Popular searches:"
+          - generic [ref=e15]:
+            - button "microbiome" [active] [ref=e16]
+            - button "HBOT" [ref=e17]
+            - button "leucovorin" [ref=e18]
+            - button "stem cell" [ref=e19]
+            - button "oxytocin" [ref=e20]
+            - button "bumetanide" [ref=e21]
+            - button "CBD" [ref=e22]
+            - button "MMR vaccine" [ref=e23]
+            - button "African American boys" [ref=e24]
+            - button "racial disparities" [ref=e25]
+            - button "vaccine safety" [ref=e26]
+        - paragraph [ref=e27]: 🌍 Searching international PubMed database • All languages • Up to 50 papers per search
+      - paragraph [ref=e30]: No papers found. Try a different search term.
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - generic [ref=e36]: 📰
+      - generic [ref=e37]:
+        - heading "Stay Updated on Autism Research" [level=3] [ref=e38]
+        - paragraph [ref=e39]: Get the latest news, breakthroughs, and resources.
+    - generic [ref=e40]:
+      - textbox "Enter your email" [ref=e41]
+      - button "Subscribe" [ref=e42]
+    - button "Close" [ref=e43]: ×
+  - contentinfo [ref=e44]:
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - heading "Maryland Autism Hub" [level=3] [ref=e48]
+          - paragraph [ref=e49]: Evidence-based autism services, research, and news for Maryland families.
+        - generic [ref=e50]:
+          - heading "Quick Links" [level=3] [ref=e51]
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - link "Provider Directory" [ref=e54] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e55]:
+              - link "Research Search" [ref=e56] [cursor=pointer]:
+                - /url: /research
+            - listitem [ref=e57]:
+              - link "Latest News" [ref=e58] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e59]:
+              - link "Organizations" [ref=e60] [cursor=pointer]:
+                - /url: /organizations
+            - listitem [ref=e61]:
+              - link "AI Therapy Recommendations" [ref=e62] [cursor=pointer]:
+                - /url: /ai-recommendations
+        - generic [ref=e63]:
+          - heading "Resources" [level=3] [ref=e64]
+          - list [ref=e65]:
+            - listitem [ref=e66]:
+              - link "Submit Your Practice" [ref=e67] [cursor=pointer]:
+                - /url: https://forms.gle/gbrgKGSuAPfFPTSK9
+            - listitem [ref=e68]:
+              - link "Kennedy Krieger Institute" [ref=e69] [cursor=pointer]:
+                - /url: https://www.kennedykrieger.org
+            - listitem [ref=e70]:
+              - link "Autism Speaks" [ref=e71] [cursor=pointer]:
+                - /url: https://www.autismspeaks.org
+        - generic [ref=e72]:
+          - heading "Support This Resource" [level=3] [ref=e73]
+          - paragraph [ref=e74]: Help us keep this resource 100% free for Maryland families.
+          - link "☕ Buy Me a Coffee" [ref=e75] [cursor=pointer]:
+            - /url: https://buymeacoffee.com/arthurpheda
+      - generic [ref=e77]:
+        - heading "⚕️ Medical Disclaimer" [level=4] [ref=e78]:
+          - generic [ref=e79]: ⚕️
+          - text: Medical Disclaimer
+        - paragraph [ref=e80]:
+          - strong [ref=e81]: This is NOT medical advice.
+          - text: The information provided on this website is for educational and informational purposes only. It should not be construed as medical advice, diagnosis, or treatment recommendations.
+        - paragraph [ref=e82]:
+          - strong [ref=e83]: Always consult with a qualified healthcare provider
+          - text: before starting, stopping, or changing any treatment, therapy, medication, or intervention for autism or any other medical condition. The information on this site does not replace professional medical judgment.
+        - paragraph [ref=e84]:
+          - strong [ref=e85]: Evidence levels vary.
+          - text: Treatments listed as "investigational" have emerging but not yet conclusive evidence. Treatments in the "avoid" category have been identified as dangerous or fraudulent. Provider listings do not constitute endorsements.
+        - paragraph [ref=e86]:
+          - strong [ref=e87]: AI recommendations are not prescriptive.
+          - text: Our AI therapy suggestion tool uses published research to generate educational recommendations only. These are NOT treatment plans. Every child is unique - work with your medical team to develop an appropriate individualized plan.
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: © 2026 Maryland Autism Hub. For educational purposes only. Not medical advice.
+        - paragraph [ref=e90]: Always consult with qualified healthcare professionals before starting any treatment.
+  - button "Open Next.js Dev Tools" [ref=e96] [cursor=pointer]:
+    - img [ref=e97]
+  - alert [ref=e100]
+```
