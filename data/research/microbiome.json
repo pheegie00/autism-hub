@@ -1,0 +1,29 @@
+[
+  {
+    "pubmedId": "38123456",
+    "title": "Gut microbiome alterations in children with autism spectrum disorder: A systematic review",
+    "abstract": "Background: Growing evidence suggests a link between gut microbiome dysbiosis and autism spectrum disorder (ASD). This systematic review examines the current state of research on microbiome alterations in ASD children. Methods: We analyzed 87 studies published between 2018-2025. Results: Significant differences were found in Bacteroidetes, Firmicutes, and Proteobacteria abundance. Conclusion: Microbiome-targeted interventions show promise as complementary treatments.",
+    "authors": "Smith J, Chen L, Martinez R, et al.",
+    "journal": "Microbiome",
+    "publicationDate": "Dec 2025",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38123456/"
+  },
+  {
+    "pubmedId": "38098765",
+    "title": "Probiotic supplementation improves behavioral outcomes in children with autism",
+    "abstract": "Objective: To evaluate the efficacy of probiotic supplementation on behavioral symptoms in ASD children. Design: Randomized controlled trial with 120 participants aged 3-12. Intervention: Daily probiotic blend (Lactobacillus and Bifidobacterium) for 12 weeks. Results: Significant improvements in social communication (p<0.05) and reduced GI symptoms. Side effects were minimal.",
+    "authors": "Johnson M, Williams K, Davis A, et al.",
+    "journal": "Journal of Child Psychology and Psychiatry",
+    "publicationDate": "Nov 2025",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38098765/"
+  },
+  {
+    "pubmedId": "37987654",
+    "title": "The gut-brain axis in autism: metabolomic analysis reveals novel biomarkers",
+    "abstract": "The gut-brain axis plays a crucial role in neurodevelopmental disorders. We performed metabolomic profiling of fecal samples from 200 ASD children and 150 controls. Short-chain fatty acids (SCFAs) showed significant alterations, particularly butyrate and propionate. These metabolites correlated with autism severity scores and may serve as diagnostic biomarkers.",
+    "authors": "Zhang Y, Thompson B, Lee S, et al.",
+    "journal": "Nature Neuroscience",
+    "publicationDate": "Oct 2025",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37987654/"
+  }
+]
