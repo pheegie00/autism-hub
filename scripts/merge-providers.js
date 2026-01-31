@@ -13,7 +13,9 @@ const invTransformed = investigational.map(p => ({
   category: p.category === 'HBOT' ? 'HBOT (Investigational)' :
             p.category === 'Stem Cell' ? 'Stem Cell (Investigational)' :
             p.category === 'Biomedical' ? 'Biomedical (Investigational)' :
+            p.category === 'Supplements' ? 'Supplements (Investigational)' :
             p.category === 'Research' ? 'Research Programs' :
+            p.category === 'Integrative Medicine' ? 'Integrative Medicine (Investigational)' :
             `${p.category} (Investigational)`,
   phone: p.phone,
   address: p.address,

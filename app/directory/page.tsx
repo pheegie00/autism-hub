@@ -34,6 +34,7 @@ const CATEGORIES = [
   { name: 'Psychiatry', isInvestigational: false },
   { name: 'Developmental Services', isInvestigational: false },
   { name: '── Investigational ──', isInvestigational: null },
+  { name: 'Supplements (Investigational)', isInvestigational: true },
   { name: 'HBOT (Investigational)', isInvestigational: true },
   { name: 'Stem Cell (Investigational)', isInvestigational: true },
   { name: 'Integrative Medicine (Investigational)', isInvestigational: true },
@@ -49,8 +50,7 @@ export default function DirectoryPage() {
   const [page, setPage] = useState(1);
 
   const isViewingInvestigational = category.includes('Investigational') || 
-    category === 'Research Programs' ||
-    category === 'Biomedical (Investigational)';
+    category === 'Research Programs';
 
   // Get unique cities
   const cities = useMemo(() => {
@@ -187,6 +187,7 @@ export default function DirectoryPage() {
             { name: 'Psychology', count: providers.filter(p => p.category === 'Psychology').length, emoji: '🧠', color: 'purple' },
             { name: 'Psychiatry', count: providers.filter(p => p.category === 'Psychiatry').length, emoji: '💊', color: 'red' },
             { name: 'Dev Svcs', fullName: 'Developmental Services', count: providers.filter(p => p.category === 'Developmental Services').length, emoji: '🌱', color: 'teal' },
+            { name: 'Supplements', fullName: 'Supplements (Investigational)', count: providers.filter(p => p.category === 'Supplements (Investigational)').length, emoji: '💊', color: 'amber' },
             { name: 'HBOT', fullName: 'HBOT (Investigational)', count: providers.filter(p => p.category === 'HBOT (Investigational)').length, emoji: '🫁', color: 'amber' },
             { name: 'Stem Cell', fullName: 'Stem Cell (Investigational)', count: providers.filter(p => p.category === 'Stem Cell (Investigational)').length, emoji: '🧬', color: 'amber' },
           ].map(stat => (

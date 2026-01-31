@@ -63170,7 +63170,7 @@
     ],
     "isInvestigational": true,
     "evidenceLevel": "investigational",
-    "notes": "Hospital-based program at UMMC. Primarily treats wound healing, decompression sickness. Research ongoing for other uses.",
+    "notes": "Hospital-based program at UMMC. Primarily treats wound healing, decompression sickness.",
     "website": "https://www.umms.org/"
   },
   {
@@ -63233,7 +63233,7 @@
     ],
     "isInvestigational": true,
     "evidenceLevel": "investigational",
-    "notes": "Regenerative medicine research. Stem cell therapy for autism is NOT FDA-approved and has limited evidence.",
+    "notes": "Regenerative medicine research. Stem cell therapy for autism is NOT FDA-approved.",
     "website": "https://www.shadygrovefertility.com/"
   },
   {
@@ -63254,7 +63254,7 @@
     ],
     "isInvestigational": true,
     "evidenceLevel": "investigational",
-    "notes": "CAUTION: Stem cell therapy for autism is NOT FDA-approved. Evidence is very limited. Significant cost involved.",
+    "notes": "CAUTION: Stem cell therapy for autism is NOT FDA-approved. Very limited evidence.",
     "website": "https://www.stemcellsgroup.com/"
   },
   {
@@ -63338,7 +63338,154 @@
     ],
     "isInvestigational": true,
     "evidenceLevel": "research",
-    "notes": "Not offering commercial stem cell/HBOT but has research programs. Check for clinical trials.",
+    "notes": "Check for clinical trials. Leading ASD research center.",
     "website": "https://www.kennedykrieger.org/"
+  },
+  {
+    "npi": "supp-001",
+    "name": "Sulforaphane (Broccoli Sprout Extract)",
+    "credential": "",
+    "specialty": "Nrf2 activator found in broccoli sprouts. Multiple RCTs show improvements in social behavior and communication in ASD.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "Brands: Avmacol, BroccoMax, Prostaphane. 2014 PNAS study showed significant improvements. Generally well-tolerated. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/25313065/"
+  },
+  {
+    "npi": "supp-002",
+    "name": "Omega-3 Fatty Acids (Fish Oil / DHA+EPA)",
+    "credential": "",
+    "specialty": "Essential fatty acids with anti-inflammatory properties. Some studies suggest benefits for behavior and attention in ASD.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "Mixed evidence. Generally safe at recommended doses. Look for high EPA+DHA content. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/28166348/"
+  },
+  {
+    "npi": "supp-003",
+    "name": "Vitamin D3",
+    "credential": "",
+    "specialty": "Multiple studies link vitamin D deficiency to ASD. Some RCTs show behavioral improvements with supplementation.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "Test levels before supplementing (25-OH vitamin D test). Optimal range debated. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/29569660/"
+  },
+  {
+    "npi": "supp-004",
+    "name": "Probiotics (Gut-Brain Axis)",
+    "credential": "",
+    "specialty": "Beneficial bacteria to support gut health. Research suggests gut microbiome differences in ASD.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "Strains studied: L. reuteri, B. infantis, VSL#3. May help GI symptoms. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/30967657/"
+  },
+  {
+    "npi": "supp-005",
+    "name": "Methyl B12 (Methylcobalamin)",
+    "credential": "",
+    "specialty": "Active form of vitamin B12. Some studies suggest improvements in methylation and behavior in ASD.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "Often given as subcutaneous injection by integrative doctors. Oral/sublingual also available. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/20625658/"
+  },
+  {
+    "npi": "supp-006",
+    "name": "Folinic Acid (Leucovorin)",
+    "credential": "",
+    "specialty": "Active form of folate. RCT showed improvements in verbal communication in children with ASD and folate receptor autoantibodies.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Prescription required for high-dose",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "2018 RCT (Frye et al.) showed significant improvements. Test for FRAA antibodies. High-dose requires prescription. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/29071075/"
+  },
+  {
+    "npi": "supp-007",
+    "name": "N-Acetyl Cysteine (NAC)",
+    "credential": "",
+    "specialty": "Antioxidant and glutathione precursor. Some studies show reduction in irritability in ASD.",
+    "category": "Supplements (Investigational)",
+    "phone": "",
+    "address": "Available at pharmacies and online",
+    "address2": "",
+    "city": "Nationwide",
+    "state": "MD",
+    "zip": "",
+    "isOrganization": true,
+    "services": [
+      "Supplements"
+    ],
+    "isInvestigational": true,
+    "evidenceLevel": "investigational",
+    "notes": "2012 study showed reduced irritability. Generally well-tolerated. NOT FDA-approved for autism.",
+    "website": "https://pubmed.ncbi.nlm.nih.gov/22617868/"
   }
 ]
