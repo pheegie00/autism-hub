@@ -1,0 +1,98 @@
+[
+  {
+    "id": "news-001",
+    "title": "HHS Kennedy Appoints New Interagency Autism Coordinating Committee",
+    "source": "U.S. Department of Health & Human Services",
+    "sourceShort": "HHS",
+    "url": "https://www.hhs.gov/press-room/hhs-kennedy-appoints-new-interagency-autism-coordinating-committee.html",
+    "date": "2026-01-30",
+    "category": "Policy",
+    "featured": true,
+    "summary": "Secretary Kennedy announces new appointments to the Interagency Autism Coordinating Committee (IACC), signaling potential shifts in federal autism policy and research priorities.",
+    "image": null
+  },
+  {
+    "id": "news-002",
+    "title": "CDC Reports Autism Prevalence Now 1 in 36 Children",
+    "source": "Centers for Disease Control and Prevention",
+    "sourceShort": "CDC",
+    "url": "https://www.cdc.gov/ncbddd/autism/data.html",
+    "date": "2026-01-15",
+    "category": "Research",
+    "featured": false,
+    "summary": "Latest CDC surveillance data shows continued increase in autism prevalence, with rates varying significantly by state and demographic factors.",
+    "image": null
+  },
+  {
+    "id": "news-003",
+    "title": "NIH Awards $100M for Autism Biomarker Research",
+    "source": "National Institutes of Health",
+    "sourceShort": "NIH",
+    "url": "https://www.nih.gov/news-events/news-releases",
+    "date": "2026-01-20",
+    "category": "Research",
+    "featured": false,
+    "summary": "New funding initiative aims to identify early biological markers for autism to enable earlier diagnosis and intervention.",
+    "image": null
+  },
+  {
+    "id": "news-004",
+    "title": "Maryland Expands Autism Waiver Services",
+    "source": "Maryland Department of Health",
+    "sourceShort": "MDH",
+    "url": "https://health.maryland.gov/",
+    "date": "2026-01-10",
+    "category": "Maryland",
+    "featured": false,
+    "summary": "New state funding increases access to home and community-based services for Maryland families with autistic children.",
+    "image": null
+  },
+  {
+    "id": "news-005",
+    "title": "Study Finds Early Intervention Before Age 2 Most Effective",
+    "source": "JAMA Pediatrics",
+    "sourceShort": "JAMA",
+    "url": "https://jamanetwork.com/journals/jamapediatrics",
+    "date": "2026-01-18",
+    "category": "Research",
+    "featured": false,
+    "summary": "Meta-analysis of 50+ studies confirms that behavioral interventions started before age 2 show significantly better outcomes than later intervention.",
+    "image": null
+  },
+  {
+    "id": "news-006",
+    "title": "New Autism Speaks Resource Guide for Newly Diagnosed Families",
+    "source": "Autism Speaks",
+    "sourceShort": "AS",
+    "url": "https://www.autismspeaks.org/tool-kit/100-day-kit-young-children",
+    "date": "2026-01-05",
+    "category": "Resources",
+    "featured": false,
+    "summary": "Updated 100 Day Kit provides roadmap for families in the critical first 100 days after an autism diagnosis.",
+    "image": null
+  },
+  {
+    "id": "news-007",
+    "title": "Insurance Coverage for ABA Therapy Now Mandated in All 50 States",
+    "source": "Autism Policy Reform Coalition",
+    "sourceShort": "APRC",
+    "url": "https://www.autismspeaks.org/state-initiatives",
+    "date": "2025-12-20",
+    "category": "Policy",
+    "featured": false,
+    "summary": "Final state passes autism insurance reform, making ABA therapy coverage a requirement nationwide.",
+    "image": null
+  },
+  {
+    "id": "news-008",
+    "title": "Gut Microbiome Study Reveals New Autism Subtypes",
+    "source": "Nature Medicine",
+    "sourceShort": "Nature",
+    "url": "https://www.nature.com/nm/",
+    "date": "2026-01-22",
+    "category": "Research",
+    "featured": false,
+    "summary": "Large-scale microbiome analysis identifies distinct gut bacteria profiles that may explain symptom variation in autism.",
+    "image": null
+  }
+]
